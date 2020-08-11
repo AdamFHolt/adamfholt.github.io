@@ -1,4 +1,4 @@
-# Holt Geodynamics Group Website
+# Holt Geodynamics Group Website -- ** IN PROGRESS **
 
 This is the website of the University of Miami's Geodynamics research group.
 

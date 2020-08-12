@@ -2,7 +2,7 @@
   photo: Adam.jpg
   info: Assistant professor, from Fall 2019
   email: aholt@miami.edu
-  number_educ: 5
+  number_educ: 3
   education1: Undergraduate at Imperial College London
   education2: PhD at USC (Southern Calif.)
   education3: Postdoc EAPS, MIT
@@ -11,8 +11,8 @@
 - name: Valeria Turino
   photo: Valeria.jpg
   info: PhD student, from Fall 2020
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
+  email: valeria.turino@rsmas.miami.edu
+  number_educ: 2
   education1: Bachelor's at University of Milan
   education2: Master's at University of Bologna
 

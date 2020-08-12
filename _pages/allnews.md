@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Geodynamics at the University of Miami."
 sitemap: false
 permalink: /allnews.html
 ---

@@ -8,8 +8,6 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students to join the team** 
-
 ## Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -73,7 +71,7 @@ permalink: /team/
 {% endif %}
 
 
-## FORMER
+## Former
 
 <div class="row">
 
@@ -83,7 +81,9 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div>
-
-
 </div>
+
+## Openings
+
+ **We are looking for new PhD students to join the team**
 

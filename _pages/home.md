@@ -16,5 +16,5 @@ We strive to isolate the forces that govern the geologic evolution of plates and
 ​<br>
 <br>
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/citcom_model.png){: style="width: 650px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/citcom_model.png){: style="width: 670px; float: center; border: 10px"}
 

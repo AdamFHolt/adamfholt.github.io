@@ -76,14 +76,14 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
 {% for member in site.data.alumni %}
-{{ member.name }}
+<h4>{{ member.name }}</h4>
 {% endfor %}
 </div>
 </div>
 
 ## Openings
 
- **We are looking for new PhD students to join the team**
+**Ph.D. studentships are available for Spring 2021. Get in touch if you are interested!**
+<br>
 

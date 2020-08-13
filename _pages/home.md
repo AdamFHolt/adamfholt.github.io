@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-​​​​​​​Welcome to the webage of University of Miami's (UM) Geodynamics Group, led by Adam F Holt and situated in the Rosenstiel School of Marine and Atmospheric Science.
+​​​​​​​**Welcome to the webage of University of Miami's (UM) Geodynamics Group, led by Adam F Holt and situated in the Rosenstiel School of Marine and Atmospheric Science.**
 <br>
 <br>
 We strive to isolate the forces that govern the geologic evolution of plates and plate boundaries and, in turn, constrain the rates and scales over which deformation occurs. To achieve this, we integrate a diverse set of modeling techniques with a range of geological observations.

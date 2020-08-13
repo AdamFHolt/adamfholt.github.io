@@ -12,6 +12,6 @@ permalink: /
 ​
 In my research, I strive to isolate the forces that govern the geologic evolution of plates and plate boundaries and, in turn, constrain the rates and scales over which deformation occurs. To achieve this, I integrate a diverse set of modeling techniques with a range of geological observations (see links below and Research page for more details).
 
-<figure class="second">
+<!-- <figure class="second">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rsmas.jpg" style="width: 230px">
-</figure>
+</figure> -->

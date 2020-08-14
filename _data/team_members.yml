@@ -1,18 +1,11 @@
 - name: Adam Holt
-  photo: Adam.jpg
-  info: Assistant professor, from Fall 2019
+  photo: adam.jpg
+  info: Assistant Professor, from Fall 2019
   email: aholt@miami.edu
-  number_educ: 3
-  education1: "Undergraduate:Imperial College London"
-  education2: "PhD: University of Southern California"
-  education3: "Postdoc: MIT"
 
 
 - name: Valeria Turino
   photo: Valeria.jpg
   info: PhD student, from Fall 2020
   email: valeria.turino@rsmas.miami.edu
-  number_educ: 2
-  education1: "Bachelor's: University of Milan"
-  education2: "Master's: University of Bologna"
 

@@ -6,11 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-# Publications
-
-
-## Peer-reviewed
+## Peer-reviewed papers
 <!-- 
 {% for publi in site.data.publist %}
 

@@ -12,13 +12,25 @@ permalink: /research/
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" width="95%", title="test">
-<figcaption>Title Text</figcaption>
+<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" width="95%">
+<figcaption>A numerical subduction model constructed using the ASPECT mantle convection code.</figcaption>
 </figure>
 <br>
 <br>
-<!-- A numerical subduction model constructed using the ASPECT mantle convection code.
- -->
+
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
+
+
 ## Global geodynamics
 
 We develop methods to place subduction dynamics into a global mantle convection framework.
@@ -28,6 +40,7 @@ We develop methods to place subduction dynamics into a global mantle convection 
 </figure>
 <br>
 <br>
+
 ## Plate kinematics and plate reconstructions
 
 We use plate kinematic observations and reconstructions to test simple mechanical models.

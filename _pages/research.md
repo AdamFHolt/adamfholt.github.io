@@ -12,12 +12,7 @@ permalink: /research/
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png){: style="width: 1000px; float: center; border: 10px"}
- -->
- {% include image.html
-            img="images/aspect_2Dsubd.png"
-            title="title for image"
-            caption="caption for image" %}
+![]({{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png){: style="width: 1000px; float: center; border: 10px"}
 
 
 A numerical subduction model constructed using the ASPECT mantle convection code.
@@ -39,12 +34,3 @@ We use plate kinematic observations and reconstructions to test simple mechanica
 Left: observed trench motion rates in a spreading-aligned reference frame. Right: trench motion rates predicted with a simple force balance.
 <br>
 <br>
-
-.image-wrapper {
-    text-align: center;
-
-    .image-caption {
-        color: $grey-color;
-        margin-top: $spacing-unit / 3;
-    }
-}

@@ -45,9 +45,9 @@ permalink: /team/
 
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-8 clearfix">
 {% for member in site.data.alumni %}
-<h4>{{ member.name }}</h4>
+<i>{{ member.name }}</i>
 {% endfor %}
 </div>
 </div>

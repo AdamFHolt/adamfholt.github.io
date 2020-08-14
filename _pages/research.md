@@ -11,27 +11,30 @@ permalink: /research/
 ## Regional subduction dynamics 
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
-
-![]({{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png){: style="width: 1000px; float: center; border: 10px"}
-
-A numerical subduction model constructed using the ASPECT mantle convection code.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" width="95%", title="test">
+<figcaption>Title Text</figcaption>
+</figure>
 <br>
 <br>
+<!-- A numerical subduction model constructed using the ASPECT mantle convection code.
+ -->
 ## Global geodynamics
 
 We develop methods to place subduction dynamics into a global mantle convection framework.
-
-![]({{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png){: style="width: 1000px; float: center; border: 10px"}
-
-Numerical computation of the global pressure field induced by time-dependent subduction of a single plate
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" width="95%">
+<figcaption>Numerical computation of the global pressure field induced by time-dependent subduction of a single plate.</figcaption>
+</figure>
 <br>
 <br>
 ## Plate kinematics and plate reconstructions
 
 We use plate kinematic observations and reconstructions to test simple mechanical models.
 
-![]({{ site.url }}{{ site.baseurl }}/images/vt.png){: style="width: 1000px; float: center; border: 10px"}
-
-Left: observed trench motion rates in a spreading-aligned reference frame. Right: trench motion rates predicted with a simple force balance.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" width="95%">
+<figcaption>Left: observed trench motion rates in a spreading-aligned reference frame. Right: trench motion rates predicted with a simple force balance.</figcaption>
+</figure>
 <br>
 <br>

@@ -14,9 +14,9 @@ We utilize numerical and analytical modeling approaches to develop an understand
 
 ![]({{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png){: style="width: 1000px; float: center; border: 10px"}
 
-
 A numerical subduction model constructed using the ASPECT mantle convection code.
-
+<br>
+<br>
 # Global geodynamics
 
 We develop methods to place subduction dynamics into a global mantle convection framework.
@@ -24,7 +24,8 @@ We develop methods to place subduction dynamics into a global mantle convection 
 ![]({{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png){: style="width: 1000px; float: center; border: 10px"}
 
 Numerical computation of the global pressure field induced by time-dependent subduction of a single plate
-
+<br>
+<br>
 # Plate kinematics and plate reconstructions
 
 We use plate kinematic observations and reconstructions to test simple mechanical models.

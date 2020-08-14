@@ -6,9 +6,9 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research overview
+# Research overview
 
-# Regional subduction dynamics 
+## Regional subduction dynamics 
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
 
@@ -17,7 +17,7 @@ We utilize numerical and analytical modeling approaches to develop an understand
 A numerical subduction model constructed using the ASPECT mantle convection code.
 <br>
 <br>
-# Global geodynamics
+## Global geodynamics
 
 We develop methods to place subduction dynamics into a global mantle convection framework.
 
@@ -26,7 +26,7 @@ We develop methods to place subduction dynamics into a global mantle convection 
 Numerical computation of the global pressure field induced by time-dependent subduction of a single plate
 <br>
 <br>
-# Plate kinematics and plate reconstructions
+## Plate kinematics and plate reconstructions
 
 We use plate kinematic observations and reconstructions to test simple mechanical models.
 

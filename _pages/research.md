@@ -6,17 +6,17 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research overview
-<h5>After the very brief research overview, below, check out the images for examples of recent and/or active projects.</h5>
+<h1>Research overview</h1>
+After the very brief research overview, below, check out the images for examples of recent and/or active projects.
 
-## 1 - Regional subduction dynamics 
-<h5>We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within particular regions. Recent regions of focus include the complex subduction settings of the Western Pacific and Caribbean.</h5>
+<h2>1 - Regional subduction dynamics</h2>
+We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within particular regions. Recent regions of focus include the complex subduction settings of the Western Pacific and Caribbean.
 
-## 2 - Global geodynamics
-<h5>We develop methods to place regional subduction zones into a global framework. Ultimately, we strive to isolate the two-way interactions that occur between individual plate boundaries and global-scale mantle circulation.</h5>
+<h2>2 - Global geodynamics</h2>
+We develop methods to place regional subduction zones into a global framework. Ultimately, we strive to isolate the two-way interactions that occur between individual plate boundaries and global-scale mantle circulation.
 
-## 3 - Plate kinematics and plate reconstructions
-<h5>We utilize plate kinematics and reconstructions to test simple mechanical models for tectonic observables.</h5>
+<h2>3 - Plate kinematics and plate reconstructions</h2>
+We utilize plate kinematics and reconstructions to test simple mechanical models for tectonic observables.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->

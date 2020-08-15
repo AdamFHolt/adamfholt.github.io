@@ -11,12 +11,15 @@ permalink: /research/
 ## Regional subduction dynamics 
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
-<figure>
+<!-- <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" width="95%">
 	<figcaption>A numerical subduction model constructed using the ASPECT mantle convection code.</figcaption>
 </figure>
 <br>
 <br>
+ -->
+{% include image.html file="images/aspect_2Dsubd.png" description="This is an image." %}
+
 
 ## Global geodynamics
 

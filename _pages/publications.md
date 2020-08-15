@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-## Peer-reviewed papers
+<h2>Peer-reviewed papers</h2>
 <br>
 **12:** Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))
 

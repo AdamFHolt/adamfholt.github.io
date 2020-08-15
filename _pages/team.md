@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-## Group members
+<h2>Group members</h2>
 
-## Current:
+<h3>Current:</h3>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -41,7 +41,7 @@ permalink: /team/
 {% endif %}
 
 
-## Former:
+<h3>Former:</h3>
 
 <div class="row">
 
@@ -50,7 +50,7 @@ permalink: /team/
 </div>
 </div>
 
-## Openings:
+<h3>Openings:</h3>
 
 <i>Ph.D. studentships available for Spring 2021. See [here](/documents/adverts/rsmas-assistantship_holt_2021.pdf) and [here](https://www.graduate.rsmas.miami.edu/admissions/phd-assistanships/index.html) for more details and get in touch if interested!</i>
 

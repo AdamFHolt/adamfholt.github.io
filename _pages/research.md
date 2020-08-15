@@ -7,22 +7,23 @@ permalink: /research/
 ---
 
 # Research overview
-After a very brief overview of our research, check out the images below for examples of recent and/or active projects.
-<br>
+<h5>{{After a very brief overview of our research, check out the images below for examples of recent and/or active projects.}}</h5>
+<h4>{{After a very brief overview of our research, check out the images below for examples of recent and/or active projects.}}</h4>
+<h3>{{After a very brief overview of our research, check out the images below for examples of recent and/or active projects.}}</h3>
 <br>
 ## 1 - Regional subduction dynamics 
  ​
-We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. Regions of focus include the complex sudbuction configurations of the Western Pacific and the Caribbean.
+We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. Recent regions of focus include the complex sudbuction configurations of the Western Pacific and the Caribbean.
 <br>
 <br>
 ## 2 - Global geodynamics
 
-We develop methods to place regional subduction dynamics into a global framework. Ultimately, we aim to assess the nature and strength of the two-way interactions that occur between individual plate boundaries and global-scale mantle circulation.
+We develop methods to place regional subduction dynamics into a global framework. Ultimately, we strive to isolate the nature and strength of the two-way interactions that occur between individual plate boundaries and global-scale circulation in the mantle.
 <br>
 <br>
 ## 3 - Plate kinematics and plate reconstructions
 
-We use plate kinematic observations and reconstructions to test simple mechanical models for tectonic observables like trench motions.
+We utilize plate kinematic observations and reconstructions in order to test simple mechanical models for tectonic observables like trench motions.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->

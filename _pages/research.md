@@ -43,10 +43,13 @@ We use plate kinematic observations and reconstructions to test simple mechanica
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd3.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

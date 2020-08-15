@@ -6,9 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+## Group members
 
-## Current
+## Current:
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -41,7 +41,7 @@ permalink: /team/
 {% endif %}
 
 
-## Former
+## Former:
 
 <div class="row">
 
@@ -50,10 +50,9 @@ permalink: /team/
 </div>
 </div>
 
-## Openings
+## Openings:
 
 <i>**Ph.D. studentships available for Spring 2021.** Get in touch if you are interested!</i>
 
-<br>
 <br>
 <br>

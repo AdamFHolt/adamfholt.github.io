@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research overview
+## Research overview
 <h5>After the very brief research overview, below, check out the images for examples of recent and/or active projects.</h5>
 
 ## 1 - Regional subduction dynamics 

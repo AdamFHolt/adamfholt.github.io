@@ -19,13 +19,11 @@ We utilize numerical and analytical modeling approaches to develop an understand
 <br>
  -->
 
- <figure>
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png"
-    width="136" height="200">
-  <figcaption>Scale model of the
-    Eiffel tower in
-    Parc Mini-France</figcaption>
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
 </figure>
+
 
 <!-- {% include image.html file="aspect_2Dsubd.png" description="This is an image." %}
  -->

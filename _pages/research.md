@@ -18,8 +18,17 @@ We utilize numerical and analytical modeling approaches to develop an understand
 <br>
 <br>
  -->
-{% include image.html file="aspect_2Dsubd.png" description="This is an image." %}
 
+ <figure>
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png"
+    width="136" height="200">
+  <figcaption>Scale model of the
+    Eiffel tower in
+    Parc Mini-France</figcaption>
+</figure>
+
+<!-- {% include image.html file="aspect_2Dsubd.png" description="This is an image." %}
+ -->
 
 ## Global geodynamics
 

@@ -7,16 +7,18 @@ permalink: /research/
 ---
 
 # Research overview
-After a (very) brief overview of our research, check out the images below for examples of some of our active projects.
+After a very brief overview of our research, check out the images below for examples of recent and/or active projects.
 <br>
-
+<br>
 ## 1 - Regional subduction dynamics 
  ​
-We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. Regions of focus include the complex sudbuction configurations in the Western Pacific and the Caribbean.
+We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. Regions of focus include the complex sudbuction configurations of the Western Pacific and the Caribbean.
+<br>
 <br>
 ## 2 - Global geodynamics
 
-We develop methods to place regional subduction dynamics into a global mantle convection framework. Ultimately, we aim to assess the nature and strength of the two-way interactions between the regional and global scales.
+We develop methods to place regional subduction dynamics into a global framework. Ultimately, we aim to assess the nature and strength of the two-way interactions that occur between individual plate boundaries and global-scale mantle circulation.
+<br>
 <br>
 ## 3 - Plate kinematics and plate reconstructions
 
@@ -40,16 +42,16 @@ We use plate kinematic observations and reconstructions to test simple mechanica
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

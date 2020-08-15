@@ -7,9 +7,9 @@ permalink: /research/
 ---
 
 # Research overview
-<h5>{{After a very brief overview of our research, check out the images below for examples of recent and/or active projects.}}</h5>
-<h4>{{After a very brief overview of our research, check out the images below for examples of recent and/or active projects.}}</h4>
-<h3>{{After a very brief overview of our research, check out the images below for examples of recent and/or active projects.}}</h3>
+<h5>After a very brief overview of our research, check out the images below for examples of recent and/or active projects.</h5>
+<h4>After a very brief overview of our research, check out the images below for examples of recent and/or active projects.</h4>
+<h3>After a very brief overview of our research, check out the images below for examples of recent and/or active projects.</h3>
 <br>
 ## 1 - Regional subduction dynamics 
  ​

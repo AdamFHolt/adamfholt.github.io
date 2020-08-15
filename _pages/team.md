@@ -23,6 +23,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
+
   </ul>
 </div>
 
@@ -39,7 +40,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-<br>
+
 ## Former
 
 <div class="row">
@@ -49,10 +50,9 @@ permalink: /team/
 </div>
 </div>
 
-<br>
 ## Openings
 
-<i>**Ph.D. studentships are available for Spring 2021**. Get in touch if you are interested!</i>
+<i>**Ph.D. studentships available for Spring 2021.** Get in touch if you are interested!</i>
 
 <br>
 <br>

@@ -55,13 +55,13 @@ We develop methods to place subduction dynamics into a global mantle convection 
 <br>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
+<div markdown="0" id="carousel2" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel2" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel2" data-slide-to="1"></li>
+        <li data-target="#carousel2" data-slide-to="2"></li>
+        <li data-target="#carousel2" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -80,11 +80,11 @@ We develop methods to place subduction dynamics into a global mantle convection 
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd4.png" alt="Slide 4" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel2" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel2" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -94,7 +94,7 @@ We develop methods to place subduction dynamics into a global mantle convection 
 
 We use plate kinematic observations and reconstructions to test simple mechanical models.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
+<div markdown="0" id="carousel3" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>

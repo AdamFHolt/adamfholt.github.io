@@ -52,7 +52,7 @@ permalink: /team/
 
 ## Openings:
 
-<i>**Ph.D. studentships available for Spring 2021.** Get in touch if you are interested!</i>
+<i>**Ph.D. studentships available for Spring 2021.** See ([here](/documents/adverts/rsmas-assistantship_holt_2021.pdf)) for more details and get in touch if interested!</i>
 
 <br>
 <br>

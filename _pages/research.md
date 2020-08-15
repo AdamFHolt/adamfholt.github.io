@@ -10,13 +10,24 @@ permalink: /research/
 
 ## Regional subduction dynamics 
  ​
-We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
+We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
+
+## Global geodynamics
+
+We develop methods to place regional subduction dynamics into a global mantle convection framework. What are the nature of the two-way interactions between these two scales?
+
+## Plate kinematics and plate reconstructions
+
+We use plate kinematic observations and reconstructions to test simple mechanical models for tectonic observables (e.g. trench and plate motions)
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -31,6 +42,12 @@ We utilize numerical and analytical modeling approaches to develop an understand
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd3.png" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 3" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -42,69 +59,3 @@ We utilize numerical and analytical modeling approaches to develop an understand
   </a>
 </div>
 
-
-
-## Global geodynamics
-
-We develop methods to place subduction dynamics into a global mantle convection framework.
-<div markdown="0" id="carousel2" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel2" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel2" data-slide-to="1"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 2" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel2" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel2" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-## Plate kinematics and plate reconstructions
-
-We use plate kinematic observations and reconstructions to test simple mechanical models.
-
-<div markdown="0" id="carousel3" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel3" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel3" data-slide-to="1"></li>
-        <li data-target="#carousel3" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" alt="Slide 3" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel3" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>

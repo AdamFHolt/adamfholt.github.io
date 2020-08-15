@@ -1,7 +1,7 @@
 ---
 title: "UM Geodynamics - Team"
 layout: gridlay
-excerpt: "UM Geodynamics: Team members"
+excerpt: "UM Geodynamics - Team"
 sitemap: false
 permalink: /team/
 ---

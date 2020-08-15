@@ -1,13 +1,12 @@
 ---
 title: "UM Geodynamics - Publications"
 layout: gridlay
-excerpt: "UM Geodynamics - Publications."
+excerpt: "UM Geodynamics - Publications"
 sitemap: false
 permalink: /publications/
 ---
 
 <h2>Peer-reviewed papers</h2>
-<br>
 **12:** Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))
 
 **11:** Holt, A. F., and Royden, L. H., 2020. Subduction dynamics and mantle pressure: (ii) Towards a Global Understanding of Slab Dip and Upper Mantle Circulation. Geochem., Geophys., Geosys., doi: 10.1029/2019GC008771. ([PDF](/documents/papers/holt-royden_2020_g3.pdf))

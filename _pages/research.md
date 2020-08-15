@@ -11,7 +11,6 @@ permalink: /research/
 ## Regional subduction dynamics 
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -24,13 +23,13 @@ We utilize numerical and analytical modeling approaches to develop an understand
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd3.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -44,17 +43,10 @@ We utilize numerical and analytical modeling approaches to develop an understand
 </div>
 
 
+
 ## Global geodynamics
 
 We develop methods to place subduction dynamics into a global mantle convection framework.
-<figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" width="95%">
-	<figcaption>Numerical computation of the global pressure field induced by time-dependent subduction of a single plate.</figcaption>
-</figure>
-<br>
-<br>
-
-
 <div markdown="0" id="carousel2" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">

@@ -46,14 +46,14 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-8 clearfix">
-{% for member in site.data.alumni %}
-<i>{{ member.name }}</i>
-{% endfor %}
+<i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/chantal_newallo_poster.pdf)) </i>
 </div>
 </div>
 
 ## Openings
 
-**Ph.D. studentships are available for Spring 2021. Get in touch if you are interested!**
+<i>Ph.D. studentships are available for Spring 2021. Get in touch if you are interested!</i>
+
+<br>
 <br>
 <br>

@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 ## Peer-reviewed papers
-
+<br>
 **12:** Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))
 
 **11:** Holt, A. F., and Royden, L. H., 2020. Subduction dynamics and mantle pressure: (ii) Towards a Global Understanding of Slab Dip and Upper Mantle Circulation. Geochem., Geophys., Geosys., doi: 10.1029/2019GC008771. ([PDF](/documents/papers/holt-royden_2020_g3.pdf))
@@ -32,6 +32,5 @@ permalink: /publications/
 **2:** Holt, A. F., Becker, T. W., Buffett, B. A., 2015. Trench migration and overriding plate stress in thermo-mechanical subduction models. Geophys. J. Int., 201, 172-192, doi: 10.1093/gji/ggv011. ([PDF](/documents/papers/holt_et_al_gji2015.pdf))
 
 **1:** Sun, D., Miller, M. S., Holt, A. F., Becker, T. W., 2014. Hot upwelling conduit beneath the  Atlas Mountains, Morocco. Geophys. Res. Lett., 41, 8037-8044, doi:10.1002/2014GL061884. ([PDF](/documents/papers/sun_et_al_grl2015.pdf))
-<br>
 <br>
 <br>

@@ -18,7 +18,7 @@ We utilize numerical and analytical modeling approaches to develop an understand
 <br>
 <br>
  -->
-{% include image.html file="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" description="This is an image." %}
+{% include image.html file="aspect_2Dsubd.png" description="This is an image." %}
 
 
 ## Global geodynamics

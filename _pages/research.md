@@ -11,23 +11,13 @@ permalink: /research/
 ## Regional subduction dynamics 
  ​
 We utilize numerical and analytical modeling approaches to develop an understanding of how subduction zones operate, in general and within a range of tectonic regions. 
-<!-- <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" width="95%">
-	<figcaption>A numerical subduction model constructed using the ASPECT mantle convection code.</figcaption>
-</figure>
-<br>
-<br>
- -->
-s
 
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -42,8 +32,52 @@ s
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" alt="Slide 3" />
         </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+## Global geodynamics
+
+We develop methods to place subduction dynamics into a global mantle convection framework.
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" width="95%">
+	<figcaption>Numerical computation of the global pressure field induced by time-dependent subduction of a single plate.</figcaption>
+</figure>
+<br>
+<br>
+
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 1" />
+        </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd3.png" alt="Slide 3" />
+        </div>
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd4.png" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -56,26 +90,37 @@ s
   </a>
 </div>
 
-<!-- {% include image.html file="aspect_2Dsubd.png" description="This is an image." %}
- -->
-
-## Global geodynamics
-
-We develop methods to place subduction dynamics into a global mantle convection framework.
-<figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" width="95%">
-	<figcaption>Numerical computation of the global pressure field induced by time-dependent subduction of a single plate.</figcaption>
-</figure>
-<br>
-<br>
-
 ## Plate kinematics and plate reconstructions
 
 We use plate kinematic observations and reconstructions to test simple mechanical models.
 
-<figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" width="95%">
-	<figcaption>Left: observed trench motion rates in a spreading-aligned reference frame. Right: trench motion rates predicted with a simple force balance.</figcaption>
-</figure>
-<br>
-<br>
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_2Dsubd.png" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/aspect_3Dsubd.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/vt.png" alt="Slide 3" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

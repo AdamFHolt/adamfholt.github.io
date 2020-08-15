@@ -21,7 +21,7 @@ We develop methods to place regional subduction dynamics into a global mantle co
 ## Plate kinematics and plate reconstructions
 
 We use plate kinematic observations and reconstructions to test simple mechanical models for tectonic observables (e.g. trench and plate motions)
-
+<!-- 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -60,5 +60,5 @@ We use plate kinematic observations and reconstructions to test simple mechanica
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 

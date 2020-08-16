@@ -2,10 +2,13 @@
   photo: adam.png
   info: Assistant Professor, from Fall 2019
   email: aholt@miami.edu
+  number_addit: 2
+  addit1: Short CV
+  addit2: Scholar, ResearchGate
 
 
 - name: Valeria Turino
   photo: Valeria.png
   info: PhD student, from Fall 2020
   email: valeria.turino@rsmas.miami.edu
-
+  number_addit: 0

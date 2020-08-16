@@ -24,6 +24,15 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
+  {% if member.number_addit == 1 %}
+  <li> {{ member.addit1 }} </li>
+  {% endif %}
+
+  {% if member.number_addit == 2 %}
+  <li> {{ member.addit1 }} </li>
+  <li> {{ member.addit2 }} </li>
+  {% endif %}
+
   </ul>
 </div>
 

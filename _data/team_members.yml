@@ -3,11 +3,9 @@
   info: Assistant Professor, from Fall 2019
   email: aholt@miami.edu
   number_addit: 2
-  # addit1: href="/documents/CVs/AdamFHolt_CV_2pg.pdf">Short CV</a>
-  addit1: [Short CV]({{ site.baseurl }}/documents/CVs/AdamFHolt_CV_2pg.pdf).
+  addit1: <a href="documents/CVs/AdamFHolt_CV_2pg.pdf">Short CV</a>
   addit2: <a href="https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en">Scholar</a>, <a href="https://www.researchgate.net/profile/Adam_Holt3">ResearchGate</a>
-
-
+  
 - name: Valeria Turino
   photo: Valeria.png
   info: PhD student, from Fall 2020

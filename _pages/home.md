@@ -24,5 +24,8 @@ We strive to isolate the forces that govern the geologic evolution of plates, pl
   </ul>
 </div>
  -->
-![](/images/teampic/adam.png)
+
+
+![](/images/teampic/adam.png){: style="width: 670px; float: center; border: 10px", .align-left}
 Something about the first picture.
+{:style="clear: left"}

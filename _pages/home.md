@@ -15,17 +15,6 @@ We strive to isolate the forces that govern the geologic evolution of plates, pl
 **Ph.D. studentships are available for Spring 2021. See [here](/documents/adverts/rsmas-assistantship_holt_2021.pdf) and [here](https://www.graduate.rsmas.miami.edu/admissions/phd-assistanships/index.html) for more details and get in touch if interested!**
 ​<br>
 <br>
-<br>
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/citcom_model.png){: style="width: 670px; float: center; border: 10px"}
- -->
-<!-- <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/adam.png" class="img-responsive" width="40%" style="float: left" />
-  <ul style="overflow: hidden">
-  </ul>
-</div>
- -->
-
-
 ![](/images/teampic/adam.png){: style="width: 670px; float: center; border: 10px", .align-left}
 Something about the first picture.
 {:style="clear: left"}

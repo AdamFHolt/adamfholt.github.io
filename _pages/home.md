@@ -5,7 +5,7 @@ excerpt: "Geodynamics Group at the University of Miami."
 sitemap: false
 permalink: /
 ---
-<br>https://www.rsmas.miami.edu/
+<br>
 ​​​​​​​**Welcome to the webpage of the University of Miami's Geodynamics Group, located within the [Rosenstiel School of Marine and Atmospheric Sciences](https://www.graduate.rsmas.miami.edu) and led by Adam F. Holt.**
 <br>
 <br>
@@ -16,5 +16,6 @@ We strive to isolate the forces that govern the geologic evolution of plates, pl
 ​<br>
 <br>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="98%">
 </figure>
+<br>

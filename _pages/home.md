@@ -16,10 +16,13 @@ We strive to isolate the forces that govern the geologic evolution of plates, pl
 ​<br>
 <br>
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/citcom_model.png){: style="width: 670px; float: center; border: 10px"}
-
-<div class="col-sm-6 clearfix">
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/citcom_model.png){: style="width: 670px; float: center; border: 10px"}
+ -->
+<!-- <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/adam.png" class="img-responsive" width="40%" style="float: left" />
   <ul style="overflow: hidden">
   </ul>
 </div>
+ -->
+![](/images/teampic/adam.png)
+Something about the first picture.

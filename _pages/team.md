@@ -19,7 +19,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="27%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -55,7 +55,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-8 clearfix">
-<i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/chantal_newallo_poster.pdf)) </i>
+<i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/posters/chantal_newallo_poster.pdf)) </i>
 </div>
 </div>
 

@@ -6,9 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h3>Click here for href="https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en">Google Scholar</a> profile</h3> 
+<h3>[Click here for Google Scholar profile](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3> 
 
-<h3 style="font-weight: bold">Published:</h3> 
+<h3 style="font-weight: bold">Submitted:</h3> 
 
 <h3 style="font-weight: bold">Published:</h3> 
 

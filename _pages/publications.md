@@ -18,7 +18,7 @@ permalink: /publications/
 <hr /> -->
 
 <h3 style="float: left; width: 50%; font-weight: bold">Published</h3>
-<h4 style="float: right; width: 50%; text-align: right;">[Click here for Google Scholar profile](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h4>
+<h3 style="float: right; width: 50%; text-align: right;">[Click here for Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 
 <p style="padding-top:15px">
 **[12]** Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))

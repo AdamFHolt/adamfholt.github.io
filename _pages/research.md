@@ -18,6 +18,8 @@ We utilize a variety of modeling approaches to develop an understanding of how s
 <h3>3 - Plate kinematics and plate reconstructions</h3>
 We utilize plate kinematics and plate reconstructions to evalute simple mechanical models for tectonic observables.
 
+<hr size="20" noshade> 
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -33,13 +35,13 @@ We utilize plate kinematics and plate reconstructions to evalute simple mechanic
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 4" />

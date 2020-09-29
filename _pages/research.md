@@ -8,7 +8,7 @@ permalink: /research/
 
 <h3 style="font-weight: bold">Research overview</h3> 
 <p style="padding-top:10px">
-After the very brief research overview, below, check out the images below for examples of recent or currently active projects.
+After the  brief research overview, below, check out the images for examples of recent or currently active projects.
 </p>
 
 <h3 style="font-weight: bold">1 - Global geodynamics</h3>

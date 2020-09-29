@@ -11,12 +11,15 @@ permalink: /publications/
 ...
 
 <h3><u>Published</u></h3> 
-**[12]:** Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))
-
+<p style="padding-top:10px">
+**[12]** Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))
+</p>
+<p style="padding-top:10px">
 **[11]** Holt, A. F., and Royden, L. H., 2020. Subduction dynamics and mantle pressure: (ii) Towards a Global Understanding of Slab Dip and Upper Mantle Circulation. Geochem., Geophys., Geosys., doi: 10.1029/2019GC008771. ([PDF](/documents/papers/holt-royden_2020_g3.pdf))
-
+</p>
+<p style="padding-top:10px">
 **[10]** Holt, A. F., Royden, L. H., Becker, T. W., Faccenna, C., 2018. Slab interactions in 3-D subduction settings: The Philippine Sea Plate region. Earth Planet. Sci. Lett., 489, 72-83, doi:10.1016/j.epsl.2018.02.024. ([PDF](/documents/papers/kiraly_et_al_g3-2018.pdf))
-
+</p>
 **[9]** Király, A., Holt, A. F., Funiciello, C., Capitanio, F., Faccenna, C., 2018. Modeling slab-slab interactions: Dynamics of a double-sided subduction system. Geochem., Geophys., Geosys., doi: 10.1002/2017GC007199. ([PDF](/documents/papers/?.pdf))
 
 **[8]** Faccenna, C., Holt, A. F., Becker, T. W., Lallemand, S., Royden, L. H., 2017: Dynamics of the Ryukyu / Izu-Bonin-Mariana double subduction system. Tectonophys., doi:10.1016/j.tecto.2017.08.011. ([PDF](/documents/papers/faccenna_et_al_tectono2017.pdf))

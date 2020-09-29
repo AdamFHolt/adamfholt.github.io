@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 <h3><u>Research overview</u></h3>
-After the very brief research overview, below, check out the images for examples of recent and/or active projects.
+After the very brief research overview, below, check out the images below for examples of recent or currently active projects.
 
 <h3>1 - Global geodynamics</h3>
 We develop methods to place plate boundaries, and particularly subduction zones, into a global framework. Ultimately, we strive to isolate the two-way interactions that occur between individual plate boundaries and global-scale mantle circulation.

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-<h2 style="font-weight: bold">Research overview</h2> 
+<h3 style="font-weight: bold">Research overview</h3> 
 <p style="padding-top:10px">
 After the very brief research overview, below, check out the images below for examples of recent or currently active projects.
 </p>

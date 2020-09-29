@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-<h2 style="font-weight: bold">Group members</h2> 
+<h3 style="font-weight: bold">Group members</h3> 
 
 <h3 style="font-weight: bold">Current:</h3>
 {% assign number_printed = 0 %}

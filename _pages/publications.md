@@ -15,10 +15,10 @@ permalink: /publications/
 **[11]** Holt, A. F., and Royden, L. H., 2020. Subduction dynamics and mantle pressure: (ii) Towards a Global Understanding of Slab Dip and Upper Mantle Circulation. Geochem., Geophys., Geosys., doi: 10.1029/2019GC008771. ([PDF](/documents/papers/holt-royden_2020_g3.pdf))
 </p>
 <p style="padding-top:12px">
-**[10]** Holt, A. F., Royden, L. H., Becker, T. W., Faccenna, C., 2018. Slab interactions in 3-D subduction settings: The Philippine Sea Plate region. Earth Planet. Sci. Lett., 489, 72-83, doi:10.1016/j.epsl.2018.02.024. ([PDF](/documents/papers/kiraly_et_al_g3-2018.pdf))
+**[10]** Holt, A. F., Royden, L. H., Becker, T. W., Faccenna, C., 2018. Slab interactions in 3-D subduction settings: The Philippine Sea Plate region. Earth Planet. Sci. Lett., 489, 72-83, doi:10.1016/j.epsl.2018.02.024. ([PDF](/documents/papers/holt_et_al_epsl2018.pdf))
 </p>
 <p style="padding-top:12px">
-**[9]** Király, A., Holt, A. F., Funiciello, C., Capitanio, F., Faccenna, C., 2018. Modeling slab-slab interactions: Dynamics of a double-sided subduction system. Geochem., Geophys., Geosys., doi: 10.1002/2017GC007199. ([PDF](/documents/papers/?.pdf))
+**[9]** Király, A., Holt, A. F., Funiciello, C., Capitanio, F., Faccenna, C., 2018. Modeling slab-slab interactions: Dynamics of a double-sided subduction system. Geochem., Geophys., Geosys., doi: 10.1002/2017GC007199. ([PDF](/documents/papers/kiraly_et_al_g3-2018.pdf))
 </p>
 <p style="padding-top:12px">
 **[8]** Faccenna, C., Holt, A. F., Becker, T. W., Lallemand, S., Royden, L. H., 2017: Dynamics of the Ryukyu / Izu-Bonin-Mariana double subduction system. Tectonophys., doi:10.1016/j.tecto.2017.08.011. ([PDF](/documents/papers/faccenna_et_al_tectono2017.pdf))

@@ -61,7 +61,7 @@ permalink: /team/
 
 <h3 style="font-weight: bold">Openings:</h3>
 
-<i>Ph.D. studentships available for Spring 2021. See [here](/documents/adverts/rsmas-assistantship_holt_2021.pdf) and [here](https://www.graduate.rsmas.miami.edu/admissions/phd-assistanships/index.html) for more details and get in touch if interested!</i>
+<i>Ph.D. studentships available for Spring 2021. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2021.pdf) and [here](https://www.graduate.rsmas.miami.edu/admissions/phd-assistanships/index.html) for more details and get in touch if interested!</i>
 
 <br>
 <br>

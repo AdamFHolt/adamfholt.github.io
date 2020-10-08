@@ -44,7 +44,7 @@ permalink: /publications/
 <p style="padding-top:12px">
 **[1]** Sun, D., Miller, M. S., Holt, A. F., Becker, T. W., 2014. Hot upwelling conduit beneath the  Atlas Mountains, Morocco. Geophys. Res. Lett., 41, 8037-8044, doi:10.1002/2014GL061884. ([PDF](/documents/papers/sun_et_al_grl2015.pdf))
 </p>
-<br>
+
 <h3 style="font-weight: bold">In Review</h3>
 
 <p style="padding-top:15px">

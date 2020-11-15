@@ -50,6 +50,9 @@ permalink: /publications/
 <p style="padding-top:15px">
 Holt, A. F., and Condit, C. B. Slab temperature evolution over the lifetime of a subduction zone. Submitted to Geochem., Geophys., Geosys.
 </p>
+<p style="padding-top:15px">
+Faccennna, C., Becker, T. W., Holt, A. F., and Brun, J. P. Mountain bulding, mantle convection, and supercontinents: Holmes (1931) revisited. Submitted to Earth Planet. Sci. Lett.
+</p>
 <br>
 <br>
 <br>

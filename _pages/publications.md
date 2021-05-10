@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h3 style="font-weight: bold">Published and in press	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
+<h3 style="font-weight: bold">Published and In Press	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 
 <p style="padding-top:15px">
 **[14]** Holt, A. F., and Condit, C. B., 2021. Slab temperature evolution over the lifetime of a subduction zone. In press at Geochem., Geophys., Geosys. ([PDF](/documents/papers/holt-condit_g3-2021.pdf))

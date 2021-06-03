@@ -26,7 +26,7 @@ We investigate the geologic evolution of plates, plate boundaries and the flowin
 </p>
 <hr>
 <p style="padding-top:5px">
-The carousel of images shows examples of recent and/or ongoing projects.
+The carousel of images shows a sample of recent or ongoing projects.
 </p>
 
 <!-- <hr size="0" noshade> 

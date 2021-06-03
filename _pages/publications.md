@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">Published and In Press	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [(Google Scholar)](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 
 <p style="padding-top:15px">
-**[14]** Holt, A. F., and Condit, C. B., 2021. Slab temperature evolution over the lifetime of a subduction zone. In press at Geochem., Geophys., Geosys. ([PDF](/documents/papers/holt-condit_g3-2021.pdf))
+**[14]** Holt, A. F., and Condit, C. B., 2021. Slab temperature evolution over the lifetime of a subduction zone. Geochem., Geophys., Geosys., 22, doi:10.1029/2020GC009476 ([PDF](/documents/papers/holt-condit_g3-2021.pdf))
 </p>
 <p style="padding-top:12px">
 **[13]** Faccenna, C., Becker, T. W., Holt, A. F., Brun, J. P., 2021. Mountain building, mantle convection, and supercontinents: Holmes (1931) revisited. Earth Planet. Sci. Lett., Frontiers, 564, doi: 10.1016/j.epsl.2021.116905 ([PDF](/documents/papers/faccenna_et_al_epsl2021.pdf))

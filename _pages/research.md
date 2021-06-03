@@ -10,15 +10,23 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 <p style="padding-top:20px">
 We strive to isolate the forces that govern the geologic evolution of plates, plate boundaries and the flowing mantle, and, in turn, constrain the rates and scales over which deformation occurs. To achieve this, we integrate a range of modeling techniques with geological observations. Particular research themes include:
+</p>
 
+<p style="padding-top:5px">
 1) Developing methods to place plate boundaries into a global framework. Ultimately, we strive to isolate the two-way interactions that occur between regional-scale plate boundaries and global-scale mantle circulation.
+</p>
 
+<p style="padding-top:5px">
 2) Utilizing a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within particular regions. Recent regions of focus include the Western Pacific and Caribbean networks of subduction zones.
+</p>
 
+<p style="padding-top:5px">
 3) Analyzing plate reconstructions and tectonic observations to evalute simple mechanical models for plate tectonic behaviors (e.g, trench retreat/advance)
+</p>
 
+<p style="padding-top:5px">
 Check out the below images  for examples of recent or currently active projects.
-</p> -->
+</p>
 
 <hr size="10" noshade> 
 

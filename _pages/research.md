@@ -9,7 +9,7 @@ permalink: /research/
  -->
 <h3 style="font-weight: bold">Research overview</h3> 
 <p style="padding-top:20px">
-We strive to isolate the forces that govern the geologic evolution of plates, plate boundaries and the flowing mantle, and, in turn, constrain the rates and scales over which deformation occurs. To achieve this, we integrate a diverse set of modeling techniques with a range of geological observations. Particular research themes include:
+We strive to isolate the forces that govern the geologic evolution of plates, plate boundaries and the flowing mantle, and, in turn, constrain the rates and scales over which deformation occurs. To achieve this, we integrate a range of modeling techniques with geological observations. Particular research themes include:
 
 1) Developing methods to place plate boundaries into a global framework. Ultimately, we strive to isolate the two-way interactions that occur between regional-scale plate boundaries and global-scale mantle circulation.
 
@@ -36,24 +36,23 @@ Check out the below images  for examples of recent or currently active projects.
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/slabPT.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd1.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/global_subd1.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/slabPT.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

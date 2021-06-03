@@ -18,11 +18,11 @@ We investigate the geologic evolution of plates, plate boundaries and the flowin
 </p>
 <hr>
 <p style="padding-top:5px">
-***[2] Utilizing a variety of modeling approaches to constrain the mechanics of subduction zones, in general and within particular regions. Recent regions of focus include the Western Pacific and Caribbean subduciton networks.***
+**[2] Utilizing a variety of modeling approaches to constrain the mechanics of subduction zones, in general and within particular regions. Recent regions of focus include the Western Pacific and Caribbean subduciton networks.**
 </p>
 <hr>
 <p style="padding-top:5px">
-***[3] Analyzing plate reconstructions and tectonic observations to evalute mechanical models for plate tectonic behaviors (e.g., trench motions).***
+**[3] Analyzing plate reconstructions and tectonic observations to evalute mechanical models for plate tectonic behaviors (e.g., trench motions).**
 </p>
 <hr>
 <p style="padding-top:5px">

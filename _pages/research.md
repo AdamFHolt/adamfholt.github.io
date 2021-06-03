@@ -10,7 +10,7 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-We investigate the geologic evolution of plates, plate boundaries and the flowing mantle, and, in particular, constrain the rates and scales of tectonic deformation. To achieve this, we integrate a range of modeling techniques with observations, with ongoing research themes that include:
+We investigate the geologic evolution of plates, plate boundaries and the flowing mantle, and, in particular, strive to constrain the rates and scales of tectonic deformation. To achieve this, we integrate a range of modeling techniques with geological observations. Below, our three main research avenues are summarized, and the carousal of images highlights specific ongoing and/or recent projects. 
 </p>
 <hr>
 <p style="padding-top:5px">
@@ -25,9 +25,6 @@ We investigate the geologic evolution of plates, plate boundaries and the flowin
 **[3] Analyzing plate reconstructions and tectonic observations to evalute mechanical models for plate tectonic behaviors (e.g., trench motions).**
 </p>
 <hr>
-<p style="padding-top:5px">
-The carousel of images shows a sample of recent or ongoing projects.
-</p>
 
 <!-- <hr size="0" noshade> 
  -->

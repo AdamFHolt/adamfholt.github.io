@@ -10,15 +10,15 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-We investigate the geologic evolution of plates, plate boundaries and the underlying mantle, and, in particular, strive to constrain the rates and scales of tectonic deformation. To achieve this, we integrate a range of modeling techniques with geological observations. Our three main research avenues are summarized below, and the image carousal highlights a selection of specific recent/ongoing projects. 
+We investigate the geologic evolution of plates, plate boundaries and the underlying mantle, and, in particular, strive to constrain the rates and scales of tectonic deformation. Our three main research avenues are summarized below, and the image carousal highlights a selection of specific and ongoing projects. 
 </p>
 <hr>
 <p style="padding-top:5px">
-**[1] Developing methods to place plate boundaries into a global framework to isolate the two-way interactions that occur between regional-scale plate boundaries and global-scale mantle circulation.**
+**[1] Developing methods to place plate boundaries into a global framework to isolate the (two-way) interactions between regional-scale plate boundaries and global-scale mantle circulation.**
 </p>
 <hr>
 <p style="padding-top:5px">
-**[2] Utilizing a variety of modeling approaches to constrain the mechanics of subduction zones, in general and within particular regions. Recent regions of focus include the geometrically complex Western Pacific and Caribbean subduction zones.**
+**[2] Utilizing various modeling approaches to constrain the mechanics of subduction zones (in general, and within specific regions). Recent regions of focus include the geometrically complex Western Pacific and Caribbean subduction zones.**
 </p>
 <hr>
 <p style="padding-top:5px">
@@ -83,7 +83,7 @@ We develop methods to place plate boundaries, and particularly subduction zones,
 
 <h3 style="font-weight: bold">2 - Regional subduction dynamics</h3>
 <p style="padding-top:10px">
-We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within particular regions. Recent regions of focus include the complex subduction settings of the Western Pacific and Caribbean.
+We utilize a variety of modeling approaches to develop an understanding of how subduction zones operate, in general and within particular regions. Current regions of focus include the complex subduction settings of the Western Pacific and the Caribbean.
 </p>
 
 <h3 style="font-weight: bold">3 - Plate kinematics and plate reconstructions</h3>

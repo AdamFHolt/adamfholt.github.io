@@ -10,7 +10,7 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-We use geodynamic modeling to investigate the rates and time-scales of geologic deformation at plate boundaries, within plates, and in the underlying mantle. Our main research avenues are summarized below, and the image carousal highlights a selection of ongoing projects. 
+We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main research avenues are summarized below, and the image carousal highlights a selection of ongoing projects. 
 </p>
 <hr>
 <p style="padding-top:5px">

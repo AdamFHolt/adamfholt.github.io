@@ -16,21 +16,21 @@
 
 - name: Valeria Turino
   photo: valeria.png
-  info: PhD student, from Fall 2020
+  info: 2nd year PhD student
   email: valeria.turino@rsmas.miami.edu
   number_addit: 1
-  addit1: "Project(s): Subduction zone thermal structure"
+  addit1: "Projects: Subduction zone thermal structure, continental collision"
 
 - name: Yidan Wang
   photo: misc.png
-  info: PhD student, from Fall 2021
+  info: 1st year PhD student, from Fall 2021
   email: yidan.wang@rsmas.miami.edu
   number_addit: 1
-  addit1: "Project(s): Global slab dynamics"
+  addit1: "Projects: Global slab dynamics, analytical subduction modeling"
 
 - name: Jazmin Garza
   photo: misc.png
   info: Undergraduate, from Spring 2021
   email: jxg1608@miami.edu
   number_addit: 1
-  addit1: "Project(s): Plate reconstruction analysis"
+  addit1: "Project: Plate reconstruction analysis"

@@ -10,7 +10,7 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main research avenues are summarized below, and the image carousal highlights a selection of recent and/or ongoing projects. 
+We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main research avenues are summarized below, and the image carousal highlights a selection of recent/ongoing projects. 
 </p>
 <hr>
 <p style="padding-top:5px">
@@ -22,11 +22,11 @@ We use geodynamic modeling to investigate the mechanics of deformation at plate 
 </p>
 <hr>
 <p style="padding-top:5px">
-**[3] Utilizing various modeling approaches to constrain the mechanics of subduction zones, with a focus on the links between sub-plate processes (e.g., mantle flow) and surface plate deformation (e.g, tectonics). Current regions of focus include the Western Pacific, Caribbean, and Alpine subduction zones.**
+**[3] Utilizing various modeling approaches to constrain the subduction zone mechanics, with a focus on  links between sub-plate processes (e.g., mantle flow) and surface plate deformation (e.g, tectonics). Current regions of focus include the Western Pacific and Caribbean.**
 </p>
 <hr>
 <p style="padding-top:5px">
-**[3] Analyzing plate reconstructions and tectonic observations to evalute simple mechanical models - e.g., static force balances - for  plate tectonic motions (e.g., trench and plate motions).**
+**[4] Analyzing plate reconstructions and tectonic observations to evalute simple mechanical models - e.g., static force balances - for  plate tectonic motions (e.g., trench and plate motions).**
 </p>
 <hr>
 

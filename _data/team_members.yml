@@ -8,7 +8,7 @@
 
 - name: Samuel Goldberg
   photo: misc.png
-  info: Postdoc, from Nov. 2021
+  info: Postdoc
   email: sgoldberg@mit.edu
   number_addit: 2
   addit1: <a href="https://www.goldbergrivers.com/">Webpage</a>
@@ -23,7 +23,7 @@
 
 - name: Yidan Wang
   photo: misc.png
-  info: 1st year PhD student, from Fall 2021
+  info: 1st year PhD student
   email: yidan.wang@rsmas.miami.edu
   number_addit: 1
   addit1: "Projects: Global slab dynamics, analytical subduction modeling"

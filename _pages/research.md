@@ -57,7 +57,7 @@ permalink: /research/
   </a>
 </div>
 
-<p style="padding-top:5px">
+<p style="padding-top:1px">
 **[1]** Unraveling feedbacks between slab dynamics, subduction zone thermal structure, and petrological phase transformations within the downgoing plate, and determining how these interactions vary over a subduction zone's lifetime.
 </p>
 <hr>

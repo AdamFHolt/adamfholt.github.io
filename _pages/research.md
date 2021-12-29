@@ -10,7 +10,7 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-**We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. The image carousal highlights a few specific recent and/or ongoing projects. Further below, our main research avenues are summarized.** 
+**We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. The image carousal highlights a few specific recent and/or ongoing projects. Further below, our main current research avenues are summarized.** 
 </p>
 <!-- <hr size="0" noshade> 
  -->
@@ -57,7 +57,7 @@ permalink: /research/
   </a>
 </div>
 
-<p style="padding-top:1px">
+<p style="padding-top:0px">
 **[1]** Unraveling feedbacks between slab dynamics, subduction zone thermal structure, and petrological phase transformations within the downgoing plate, and determining how these interactions vary over a subduction zone's lifetime.
 </p>
 <hr>

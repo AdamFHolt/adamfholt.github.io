@@ -10,7 +10,7 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-**We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. The image carousal highlights a few of our recent/ongoing projects and our main research avenues are summarized further below.** 
+**We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. The image carousal highlights a few specific recent and/or ongoing projects. Further below, our main research avenues are summarized.** 
 </p>
 <!-- <hr size="0" noshade> 
  -->

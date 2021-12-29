@@ -10,26 +10,8 @@ permalink: /research/
 <h3 style="font-weight: bold">Research overview</h3> 
 
 <p style="padding-top:15px">
-We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main research avenues are summarized below, and the image carousal highlights a selection of recent/ongoing projects. 
+We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. The image carousal highlights a few of our recent/ongoing projects and our main research avenues are summarized further below. 
 </p>
-<hr>
-<p style="padding-top:5px">
-**[1] Developing methods to place plate boundaries into a global framework to isolate interactions between regional-scale plate boundaries and global-scale mantle circulation.**
-</p>
-<hr>
-<p style="padding-top:5px">
-**[2] Unraveling feedbacks between slab dynamics, subduction zone thermal structure, and petrological phase transformations within the downgoing plate, and determining how rapidly each vary over a subduction zone's lifetime.**
-</p>
-<hr>
-<p style="padding-top:5px">
-**[3] Utilizing various modeling approaches to constrain the subduction zone mechanics, with a focus on  links between sub-plate processes (e.g., mantle flow) and surface plate deformation (e.g, tectonics). Current regions of focus include the Western Pacific and Caribbean.**
-</p>
-<hr>
-<p style="padding-top:5px">
-**[4] Analyzing plate reconstructions and tectonic observations to evalute simple mechanical models - e.g., static force balances - for  plate tectonic motions (e.g., trench and plate motions).**
-</p>
-<hr>
-
 <!-- <hr size="0" noshade> 
  -->
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="false" data-pause="hover" >
@@ -74,6 +56,26 @@ We use geodynamic modeling to investigate the mechanics of deformation at plate 
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<hr>
+
+<p style="padding-top:5px">
+**[1] Unraveling feedbacks between slab dynamics, subduction zone thermal structure, and petrological phase transformations within the downgoing plate, and determining how these interactions vary over a subduction zone's lifetime.**
+</p>
+<hr>
+<p style="padding-top:5px">
+**[2] Developing methods to place plate boundaries into a global framework, in order to isolate interactions between regional-scale plate boundaries and global-scale mantle circulation.**
+</p>
+<hr>
+<p style="padding-top:5px">
+**[3] Utilizing various modeling approaches to constrain the subduction zone mechanics, with a focus on links between sub-plate processes (e.g., mantle flow) and surface plate deformation (e.g, tectonics). Current regions of focus include the Western Pacific and the Caribbean.**
+</p>
+<hr>
+<p style="padding-top:5px">
+**[4] Analyzing plate reconstructions and tectonic observations to evalute simple mechanical models - e.g., static force balances - for  plate tectonic motions (e.g., trench and plate motions).**
+</p>
+<hr>
+
 
 <!-- <h3 style="font-weight: bold">Research overview</h3> 
 <p style="padding-top:10px">

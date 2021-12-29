@@ -61,7 +61,7 @@ permalink: /team/
 
 <h3 style="font-weight: bold">Openings:</h3>
 
-<i>Ph.D. studentships available for Fall 2022. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
+<i>Ph.D. studentship available for Fall 2022. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
 
 <br>
 <br>

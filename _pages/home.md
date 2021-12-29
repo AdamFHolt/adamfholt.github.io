@@ -14,6 +14,9 @@ We strive to constrain the forces that govern the geologic evolution of plates, 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="100%">
 </figure>
+
+<div class="boxBorder">
 <br>
 **We have Ph.D. studentships available for Fall 2022. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch via email (aholt@miami.edu) if you are interested. Also feel free to reach out if you are interested in doing a Postdoc within the group.**
 ​<br>
+</div>

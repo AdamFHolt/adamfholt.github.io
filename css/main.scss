@@ -91,9 +91,10 @@ firstp {
     margin-right: 30px;
 }
 
+
 .boxBorder {
-     border: 2px solid #990066;
-     padding: 10px;
-     outline: #990066 solid 5px;
-     outline-offset: 5px;
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid red;
 }

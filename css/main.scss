@@ -93,6 +93,8 @@ firstp {
 
 
 .boxBorder {
+  box-sizing: border-box;
   padding: 20px;
   background: grey;
+  border: 4px black;
 }

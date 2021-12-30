@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 <h3 style="font-weight: bold">Group members</h3> 
-
+<hr>
 <h3 style="font-weight: bold">Current:</h3>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}

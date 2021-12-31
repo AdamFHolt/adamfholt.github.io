@@ -27,7 +27,7 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 <hr>
 <p style="padding-top:5px">
-**Plate tectonic analyses:** We work on deriving geodynamics expressions, or "rules", to explain present-day tectonic observations (e.g., trench migration rates/directions). To do this, we focus on evaluating the validity of simple mechanical models - e.g., static force balances - to reproduce tectonic plate motions. Such rules can, in turn, be applied to evaluating the geodynamic validity of plate reconstructions, as these are often constructed without explicitly considering the dynamic feasibility of the reconstructed plate behavior.
+**Plate tectonic analyses:** We work on deriving geodynamics expressions, or "rules", to explain present-day tectonic observations (e.g., trench migration rates and directions). To do this, we focus on evaluating the validity of simple mechanical models - e.g., static force balances - to reproduce tectonic plate motions. Such rules can, in turn, be applied to evaluating the geodynamic validity of plate reconstructions, as these are often constructed without explicitly considering the dynamic feasibility of the reconstructed plate behavior.
 </p>
 <hr>
 <!-- <hr size="0" noshade> 

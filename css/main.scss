@@ -84,19 +84,10 @@ firstp {
 /* Carusel */
 
 .carousel {
-    border-radius: 0px 0px 0px 0px;
-    background-color: rgba(0,0,0,0);
-    overflow: hidden;
+    border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
-    margin-top:  20px;
+    margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
 }
 
-
-.boxBorder {
-  box-sizing: border-box;
-  padding: 20px;
-  background: grey;
-  border: 4px black;
-}

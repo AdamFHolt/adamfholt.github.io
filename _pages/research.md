@@ -19,11 +19,11 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 <hr>
 <p style="padding-top:5px">
-**Subduction zone thermal structure:** Unraveling feedbacks between slab dynamics, subduction zone thermal structure, and petrological phase transformations within the downgoing plate, and determining how these interactions vary over a subduction zone's lifetime.
+**Subduction zone thermal structure and metamorphism:** We use numerical subduction models to unravel the feedbacks that occur between geodynamic subduction properties (e.g., slab dip, convergence rate), subduction zone thermal structure, and the petrological phase transformations within dynamically evolving subduction zones (([Holt and Condit, 2021, G-cubed](/documents/papers/holt-condit_g3-2021.pdf)). As part of a recently funded [NSF project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119842), we are now working on extending these generic models to specific subduction zones, and more rigorously integrating the geodynamic (slab evolution) and petrologic (phase transitions and dehydration) components of our dynamic modeling approach.
 </p>
 <hr>
 <p style="padding-top:5px">
-**Global slab and mantle dynamics:** Developing methods to place plate boundaries into a global framework, in order to isolate interactions between regional-scale plate boundaries and global-scale mantle circulation.
+**Global slab and mantle dynamics:** Zooming out, Developing methods to place plate boundaries into a global framework, in order to isolate interactions between regional-scale plate boundaries and global-scale mantle circulation.
 </p>
 <hr>
 <p style="padding-top:5px">

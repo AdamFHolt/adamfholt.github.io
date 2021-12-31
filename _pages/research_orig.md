@@ -1,6 +1,6 @@
 ---
 title: "UM Geodynamics - Research"
-layout: gridlay
+layout: textlay
 excerpt: "UM Geodynamics - Research"
 sitemap: false
 permalink: /research/
@@ -11,15 +11,15 @@ permalink: /research/
 
 <hr>
 <p style="padding-top:5px">
-We use geodynamic modeling, in conjunction with geological and geophysical observations, to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main current research avenues are summarized below, and the image carousal highlights a selection of our recent projects.
-</p>
-<hr>
-<p style="padding-top:5px">
-**Regional subduction dynamics:** We use both analytical and numerical modeling approaches to constrain subduction zone mechanics, with a focus on the links between sub-plate processes (e.g., mantle flow and pressure) and near-surface  deformation (e.g, topography, plate velocities, and tectonics). A recent area of focus has been the geometrically complicated "double subduction" zones, both in general ([Holt et al., 2017, GJI](/documents/papers/holt_et_al_gji2017.pdf)) and in the Caribbean, Western Pacific, and India-Eurasian subduction zones (e.g., [Faccenna et al., 2017, Tectonophys.;](/documents/papers/faccenna_et_al_tectono2017.pdf) [Holt et al., 2018, GJI](/documents/papers/holt_et_al_epsl2018.pdf))
+**We use geodynamic modeling to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main research avenues are summarized below, and the image carousal highlights a selection of recent/ongoing projects.**
 </p>
 <hr>
 <p style="padding-top:5px">
 **Subduction zone thermal structure:** Unraveling feedbacks between slab dynamics, subduction zone thermal structure, and petrological phase transformations within the downgoing plate, and determining how these interactions vary over a subduction zone's lifetime.
+</p>
+<hr>
+<p style="padding-top:5px">
+**Regional subduction dynamics:** Utilizing various modeling approaches to constrain the subduction zone mechanics, with a focus on links between sub-plate processes (e.g., mantle flow) and surface plate deformation (e.g, topography and tectonics). Current regions of focus include the Western Pacific and the Caribbean.
 </p>
 <hr>
 <p style="padding-top:5px">

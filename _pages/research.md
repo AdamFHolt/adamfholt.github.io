@@ -11,7 +11,7 @@ permalink: /research/
 
 <hr>
 <p style="padding-top:5px">
-We use geodynamic modeling, in conjunction with geological and geophysical observations, to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main current research avenues are summarized below, and the image carousal highlights a selection of our recent projects.
+We use geodynamic modeling, in conjunction with geological and geophysical observations, to investigate the mechanics of deformation at plate boundaries, within plates, and in the underlying mantle. Our main current research avenues are summarized below, and the image carousal at the bottom highlights a selection of our recent projects.
 </p>
 <hr>
 <p style="padding-top:5px">

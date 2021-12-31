@@ -6,8 +6,9 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+<h3 style="font-weight: bold">News</h3> 
 
+<hr>
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>

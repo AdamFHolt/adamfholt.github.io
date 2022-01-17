@@ -19,7 +19,7 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 <hr>
 <p style="padding-top:5px">
-**Subduction zone thermal structure and metamorphism:** We use numerical subduction models to investigates the feedbacks between geodynamic subduction properties (e.g., slab dip, convergence rate), subduction zone thermal structure, and the petrological phase transformations within dynamically evolving subduction zones ([Holt and Condit, 2021, G-Cubed](/documents/papers/holt-condit_g3-2021.pdf)). As part of a recently funded [NSF project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119842), we are currently extending these generic models to specific subduction zones, and more rigorously integrating the geodynamic (slab evolution) and petrologic (phase transitions and dehydration) components of our subuction modeling approach.
+**Subduction zone thermal structure and metamorphism:** We use numerical subduction models to investigate feedbacks between geodynamic subduction properties (e.g., slab dip, convergence rate), subduction zone thermal structure, and petrological phase transformations within dynamically evolving subduction zones ([Holt and Condit, 2021, G-Cubed](/documents/papers/holt-condit_g3-2021.pdf)). As part of a recently funded [NSF project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119842), we are currently extending these generic models to specific subduction zones, and more rigorously integrating the geodynamic (slab evolution) and petrologic (phase transitions and dehydration) components of our subuction modeling approach.
 </p>
 <hr>
 <p style="padding-top:5px">

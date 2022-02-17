@@ -10,10 +10,13 @@ permalink: /publications/
 
 <hr>
 <p style="padding-top:5px">
-[14] Holt, A. F., and Condit, C. B., 2021. Slab temperature evolution over the lifetime of a subduction zone. Geochem., Geophys., Geosys., 22, doi:10.1029/2020GC009476 ([PDF](/documents/papers/holt-condit_g3-2021.pdf))
+[15] Behr, W. M., Holt, A. F., Becker, T. W., Faccenna, C., 2022. The effects of plate interface rheology on subduction kinematics and dynamics. In press at Geophys. J. Int. ([PDF](/documents/papers/behr_etal_gji2022.pdf))
 </p>
 <p style="padding-top:12px">
-[13] Faccenna, C., Becker, T. W., Holt, A. F., Brun, J. P., 2021. Mountain building, mantle convection, and supercontinents: Holmes (1931) revisited. Earth Planet. Sci. Lett., Frontiers, 564, doi: 10.1016/j.epsl.2021.116905 ([PDF](/documents/papers/faccenna_et_al_epsl2021.pdf))
+[14] Holt, A. F., and Condit, C. B., 2021. Slab temperature evolution over the lifetime of a subduction zone. Geochem., Geophys., Geosys., 22, doi:10.1029/2020GC009476. ([PDF](/documents/papers/holt-condit_g3-2021.pdf))
+</p>
+<p style="padding-top:12px">
+[13] Faccenna, C., Becker, T. W., Holt, A. F., Brun, J. P., 2021. Mountain building, mantle convection, and supercontinents: Holmes (1931) revisited. Earth Planet. Sci. Lett., Frontiers, 564, doi: 10.1016/j.epsl.2021.116905. ([PDF](/documents/papers/faccenna_et_al_epsl2021.pdf))
 </p>
 <p style="padding-top:12px">
 [12] Royden, L. H., and Holt, A. F., 2020. Subduction dynamics and mantle pressure: (i) An Analytical Framework Relating Subduction Geometry, Plate Motion, and Asthenospheric Pressure. Geochem., Geophys., Geosys., doi: 10.1029/2020GC009032. ([PDF](/documents/papers/royden-holt_2020_g3.pdf))

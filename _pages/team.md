@@ -65,7 +65,7 @@ permalink: /team/
 
 <h3 style="font-weight: bold">Group outings:</h3>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/SharkValley_Feb2022.png" width="100%">
 </figure>
 
 <br>

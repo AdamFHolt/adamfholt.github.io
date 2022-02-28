@@ -63,5 +63,10 @@ permalink: /team/
 
 <i>Ph.D. studentship available for Fall 2022. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
 
+<h3 style="font-weight: bold">Group outings:</h3>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="100%">
+</figure>
+
 <br>
 <br>

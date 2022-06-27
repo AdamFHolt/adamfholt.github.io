@@ -56,17 +56,18 @@ permalink: /team/
 
 <div class="col-sm-8 clearfix">
 <i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/posters/chantal_newallo_poster.pdf)) </i>
+<i> Jazmin Garza, Bachelor's Thesis, Spring 2022 ([Jazmin's poster](/documents/posters/jazmin_garza_poster.pdf)) </i>
 </div>
 </div>
 
 <h3 style="font-weight: bold">Openings:</h3>
 
-<i>Ph.D. studentship available for Fall 2022. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
+<i>Ph.D. studentship available for Fall 2022 and/or Spring 2023. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
 
-<h3 style="font-weight: bold">Group outings:</h3>
+<!-- <h3 style="font-weight: bold">Group outings:</h3>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/SharkValley_Feb2022.png" width="100%">
 </figure>
-
+ -->
 <br>
 <br>

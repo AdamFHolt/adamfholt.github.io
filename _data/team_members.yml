@@ -8,7 +8,7 @@
 
 - name: Samuel Goldberg
   photo: sam.png
-  info: Postdoc
+  info: NSF Postdoc Fellow
   email: sgoldberg@mit.edu
   number_addit: 2
   addit1: <a href="https://www.goldbergrivers.com/">Webpage</a>
@@ -26,11 +26,11 @@
   info: 1st year PhD student
   email: yidan.wang@rsmas.miami.edu
   number_addit: 1
-  addit1: "Projects: Global slab dynamics, analytical subduction modeling"
+  addit1: "Project: Global mantle and subduction dynamics"
 
-- name: Jazmin Garza
+- name: Reid Jansen
   photo: misc.png
   info: Undergraduate researcher
-  email: jxg1608@miami.edu
+  email: rpj30@miami.edu
   number_addit: 1
-  addit1: "Project: Plate reconstruction analysis"
+  addit1: "Project: "Subduction" on Europa"

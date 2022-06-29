@@ -11,16 +11,16 @@ permalink: /publications/
 
 <h4 style="font-style: italic">In review:</h4> 
 <p style="padding-top:5px">
-[xx] Holt, A. F. Probing upper mantle pressure patterns and oeanic dynamic topography using global subduction models. Submitted to Geophysical Research Letters.
+[xx] Holt, A. F., Probing upper mantle pressure patterns and oeanic dynamic topography using global subduction models. Submitted to Geophysical Research Letters.
 </p>
 <p style="padding-top:12px">
-[xx] Royden, L. H., Vassilakis, E., Holt, A. F. Stationary Slab Systems: A Reference Frame for the Lower Mantle? Submitted to Geochemistry, Geophysics, Geosystems.
+[xx] Royden, L. H., Vassilakis, E., Holt, A. F., Stationary Slab Systems: A Reference Frame for the Lower Mantle? Submitted to Geochemistry, Geophysics, Geosystems.
 </p>
 
 <p style="padding-top:15px"> </p>
 <h4 style="font-style: italic">Published:</h4> 
 <p style="padding-top:5px">
-[15] Behr, W. M., Holt, A. F., Becker, T. W., Faccenna, C., 2022. The effects of plate interface rheology on subduction kinematics and dynamics. In press at Geophys. J. Int. ([PDF](/documents/papers/behr_etal_gji2022.pdf))
+[15] Behr, W. M., Holt, A. F., Becker, T. W., Faccenna, C., 2022. The effects of plate interface rheology on subduction kinematics and dynamics. Geophys. J. Int., 230, doi: 10.1093/gji/ggac075. ([PDF](/documents/papers/behr_etal_gji2022.pdf))
 </p>
 <p style="padding-top:12px">
 [14] Holt, A. F., and Condit, C. B., 2021. Slab temperature evolution over the lifetime of a subduction zone. Geochem., Geophys., Geosys., 22, doi:10.1029/2020GC009476. ([PDF](/documents/papers/holt-condit_g3-2021.pdf))

@@ -11,7 +11,7 @@ permalink: /publications/
 
 <h4 style="font-style: italic">In review:</h4> 
 <p style="padding-top:5px">
-[xx] Holt, A. F., Probing upper mantle pressure patterns and oeanic dynamic topography using global subduction models. Submitted to Geophysical Research Letters.
+[xx] Holt, A. F., Probing upper mantle pressure patterns and oeanic dynamic topography within global subduction models. Submitted to Geophysical Research Letters.
 </p>
 <p style="padding-top:12px">
 [xx] Royden, L. H., Vassilakis, E., Holt, A. F., Stationary Slab Systems: A Reference Frame for the Lower Mantle? Submitted to Geochemistry, Geophysics, Geosystems.

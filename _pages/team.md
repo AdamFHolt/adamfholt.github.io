@@ -63,7 +63,7 @@ permalink: /team/
 
 <h3 style="font-weight: bold">Openings:</h3>
 
-<i>Ph.D. studentship available for Spring 2023. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
+<i>Ph.D. studentship available for Spring and <u>Fall</u> 2023. See [here](https://graduate.rsmas.miami.edu/_assets/pdf/phd-assistanships/advert-fall2022.pdf) for more details and get in touch if interested!</i>
 
 <!-- <h3 style="font-weight: bold">Group outings:</h3>
 <figure>

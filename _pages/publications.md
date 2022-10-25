@@ -8,9 +8,6 @@ permalink: /publications/
 
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
-
-<p style="padding-top:15px"> </p>
-<h4 style="font-style: italic">Published and In Press:</h4> 
 <p style="padding-top:5px">
 [xx] Holt, A. F., 2022. The topographic signature of mantle pressure build-up beneath subducting plates: A numerical modeling study. In Press at Geophysical Research Letters. doi: 10.1029/2022GL100330. ([PDF](/documents/papers/holt_grl-2022.pdf))
 </p>

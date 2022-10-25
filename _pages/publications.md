@@ -9,17 +9,12 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 
-<h4 style="font-style: italic">In review:</h4> 
+<p style="padding-top:15px"> </p>
+<h4 style="font-style: italic">Published and In Press:</h4> 
 <p style="padding-top:5px">
-[xx] Holt, A. F., Probing upper mantle pressure patterns and oeanic dynamic topography within global subduction models. Submitted to Geophysical Research Letters.
+[xx] Holt, A. F., 2022. The topographic signature of mantle pressure build-up beneath subducting plates: A numerical modeling study. In Press at Geophysical Research Letters. doi: 10.1029/2022GL100330. ([PDF](/documents/papers/holt_grl-2022.pdf))
 </p>
 <p style="padding-top:12px">
-[xx] Royden, L. H., Vassilakis, E., Holt, A. F., Stationary Slab Systems: A Reference Frame for the Lower Mantle? Submitted to Geochemistry, Geophysics, Geosystems.
-</p>
-
-<p style="padding-top:15px"> </p>
-<h4 style="font-style: italic">Published:</h4> 
-<p style="padding-top:5px">
 [15] Behr, W. M., Holt, A. F., Becker, T. W., Faccenna, C., 2022. The effects of plate interface rheology on subduction kinematics and dynamics. Geophys. J. Int., 230, doi: 10.1093/gji/ggac075. ([PDF](/documents/papers/behr_etal_gji2022.pdf))
 </p>
 <p style="padding-top:12px">

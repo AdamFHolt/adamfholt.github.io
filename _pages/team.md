@@ -55,8 +55,9 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-8 clearfix">
-<i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/posters/chantal_newallo_poster.pdf)) </i>
+<i> Yidan Wang, Switched to Prof. G. Lin's group, Summer 2022 (Yidan's poster) </i>
 <br><i> Jazmin Garza, Bachelor's Thesis, Spring 2022 ([Jazmin's poster](/documents/posters/jazmin_garza_poster.pdf)) </i>
+<br><i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/posters/chantal_newallo_poster.pdf)) </i>
 
 </div>
 </div>

@@ -14,19 +14,19 @@
   addit1: <a href="https://www.goldbergrivers.com/">Webpage</a>
   addit2: <a href="https://scholar.google.com/citations?user=15zj4lMAAAAJ&hl=en">Scholar</a>
 
+- name: Ryan Stoner
+  photo: misc.png
+  info: Postdoc
+  email: rstoner@ucsb.edu
+  number_addit: 1
+  addit1: "Projects: Subduction dynamics, metamorphic phase transitions"
+
 - name: Valeria Turino
   photo: valeria.png
   info: 2nd year PhD student
   email: valeria.turino@rsmas.miami.edu
   number_addit: 1
   addit1: "Projects: Subduction zone thermal structure, continental collision"
-
-- name: Yidan Wang
-  photo: yidan.png
-  info: 1st year PhD student
-  email: yidan.wang@rsmas.miami.edu
-  number_addit: 1
-  addit1: "Project: Global mantle and subduction dynamics"
 
 - name: Reid Jansen
   photo: reid.png

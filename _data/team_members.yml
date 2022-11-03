@@ -8,22 +8,22 @@
 
 - name: Samuel Goldberg
   photo: sam.png
-  info: NSF Postdoc Fellow
+  info: NSF Postdoctoral Fellow
   email: sgoldberg@mit.edu
   number_addit: 2
   addit1: <a href="https://www.goldbergrivers.com/">Webpage</a>
   addit2: <a href="https://scholar.google.com/citations?user=15zj4lMAAAAJ&hl=en">Scholar</a>
 
 - name: Ryan Stoner
-  photo: misc.png
-  info: Postdoc
+  photo: ryan.png
+  info: Postdoctoral Researcher
   email: rstoner@ucsb.edu
   number_addit: 1
   addit1: "Projects: Subduction dynamics, metamorphic phase transitions"
 
 - name: Valeria Turino
   photo: valeria.png
-  info: 2nd year PhD student
+  info: 3nd year PhD student
   email: valeria.turino@rsmas.miami.edu
   number_addit: 1
   addit1: "Projects: Subduction zone thermal structure, continental collision"

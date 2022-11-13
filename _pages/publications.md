@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
-[16] Holt, A. F., 2022. The topographic signature of mantle pressure build-up beneath subducting plates: A numerical modeling study. In Press at Geophysical Research Letters. doi: 10.1029/2022GL100330. ([PDF](/documents/papers/holt_grl-2022.pdf))
+[16] Holt, A. F., 2022. The topographic signature of mantle pressure build-up beneath subducting plates: Insights from spherical subduction models. Geophys. Res. Lett., 49, doi:10.1029/2022GL100330. ([PDF](/documents/papers/holt_grl2022.pdf))
 </p>
 <p style="padding-top:12px">
 [15] Behr, W. M., Holt, A. F., Becker, T. W., Faccenna, C., 2022. The effects of plate interface rheology on subduction kinematics and dynamics. Geophys. J. Int., 230, doi: 10.1093/gji/ggac075. ([PDF](/documents/papers/behr_etal_gji2022.pdf))

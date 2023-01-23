@@ -55,7 +55,8 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-8 clearfix">
-<i> Yidan Wang, Now in Prof. G. Lin's seismology group, Summer 2022 ([Yidan's poster](/documents/posters/yidan_ALW_poster.pdf)) </i>
+<i> Sam Goldberg, NSF Postdoc Fellow, Now faculty here in Miami ([Sam's webpage](https://www.samgoldberg.org/)) </i>
+<br><i> Yidan Wang, Now in Prof. G. Lin's seismology group, Summer 2022 ([Yidan's poster](/documents/posters/yidan_ALW_poster.pdf)) </i>
 <br><i> Jazmin Garza, Bachelor's Thesis, Spring 2022 ([Jazmin's poster](/documents/posters/jazmin_garza_poster.pdf)) </i>
 <br><i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/posters/chantal_newallo_poster.pdf)) </i>
 

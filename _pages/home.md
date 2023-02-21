@@ -16,7 +16,7 @@ We strive to constrain the factors that govern the geologic evolution of plates,
 </figure>
 <br>
 
-<p style="border:2px; border-style:solid; border-radius: 5px; border-color:#100c08; background: #fafafa; padding: 0.75em;">**ANNOUNCEMENT: We have two Ph.D. studentships available for the upcoming academic year (Fall 2023). Do not hesitate to get in touch via email if you are interested!**</p>
-
+<!-- <p style="border:2px; border-style:solid; border-radius: 5px; border-color:#100c08; background: #fafafa; padding: 0.75em;">**ANNOUNCEMENT: We have two Ph.D. studentships available for the upcoming academic year (Fall 2023). Do not hesitate to get in touch via email if you are interested!**</p>
+ -->
 ​<br>
 <br>

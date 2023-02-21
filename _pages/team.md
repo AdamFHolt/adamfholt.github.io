@@ -63,14 +63,9 @@ permalink: /team/
 </div>
 </div>
 
-<h3 style="font-weight: bold">Openings:</h3>
+<!-- <h3 style="font-weight: bold">Openings:</h3>
 
 <i>Ph.D. studentships are available for Fall 2023. See [here](https://graduate.earth.miami.edu/_assets/pdf/phd-assistanships/adam-holt1-fall-2023.pdf) and [here](https://graduate.earth.miami.edu/_assets/pdf/phd-assistanships/adam-holtt2-fall-2023.pdf) for more details about the projects and get in touch if interested!</i>
-
-<!-- <h3 style="font-weight: bold">Group outings:</h3>
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/SharkValley_Feb2022.png" width="100%">
-</figure>
  -->
 <br>
 <br>

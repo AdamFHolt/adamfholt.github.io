@@ -55,7 +55,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-8 clearfix">
-<i> Sam Goldberg, NSF Postdoc Fellow, Now faculty here in Miami ([Sam's webpage](https://www.samgoldberg.org/)) </i>
+<i> Sam Goldberg, NSF Postdoctoral Fellow, Now UMiami faculty ([Sam's webpage](https://www.samgoldberg.org/)) </i>
 <br><i> Yidan Wang, Now in Prof. G. Lin's seismology group, Summer 2022 ([Yidan's poster](/documents/posters/yidan_ALW_poster.pdf)) </i>
 <br><i> Jazmin Garza, Bachelor's Thesis, Spring 2022 ([Jazmin's poster](/documents/posters/jazmin_garza_poster.pdf)) </i>
 <br><i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster](/documents/posters/chantal_newallo_poster.pdf)) </i>
@@ -67,5 +67,4 @@ permalink: /team/
 
 <i>Ph.D. studentships are available for Fall 2023. See [here](https://graduate.earth.miami.edu/_assets/pdf/phd-assistanships/adam-holt1-fall-2023.pdf) and [here](https://graduate.earth.miami.edu/_assets/pdf/phd-assistanships/adam-holtt2-fall-2023.pdf) for more details about the projects and get in touch if interested!</i>
  -->
-<br>
 <br>

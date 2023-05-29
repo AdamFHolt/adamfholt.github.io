@@ -15,7 +15,7 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 <hr>
 <p style="padding-top:5px">
-**Regional subduction dynamics:** We use analytical and numerical modeling approaches to constrain subduction zone dynamics, with a focus on the links between sub-plate processes (e.g., mantle flow and pressure) and near-surface  deformation (e.g, topography, plate velocities, and tectonics). A recent focus has been on  the physical processes that dictate tectonic observables within geometrically complicated "double subduction" zones, both in general ([Holt et al., 2017, GJI](/documents/papers/holt_et_al_gji2017.pdf)) and as applied to the Caribbean, Western Pacific, and India-Eurasian subduction zones (e.g., [Faccenna et al., 2017, Tectonophys.](/documents/papers/faccenna_et_al_tectono2017.pdf); [Holt et al., 2018, GJI](/documents/papers/holt_et_al_epsl2018.pdf))
+**Regional subduction dynamics:** We use analytical and numerical modeling approaches to constrain subduction zone dynamics, with a focus on the links between sub-plate processes (e.g., mantle flow and pressure) and near-surface  deformation (e.g, topography, plate velocities, and tectonics). A relatively recent focus has been on  the physical processes that dictate tectonic observables within geometrically complicated "double subduction" zones, both in general ([Holt et al., 2017, GJI](/documents/papers/holt_et_al_gji2017.pdf)) and as applied to the Caribbean, Western Pacific, and India-Eurasian subduction zones (e.g., [Faccenna et al., 2017, Tectonophys.](/documents/papers/faccenna_et_al_tectono2017.pdf); [Holt et al., 2018, GJI](/documents/papers/holt_et_al_epsl2018.pdf))
 </p>
 <hr>
 <p style="padding-top:5px">
@@ -23,7 +23,7 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 <hr>
 <p style="padding-top:5px">
-**Global slab and mantle dynamics:** We are developing methods to investigate the strength and nature of mechanical interactions between regional plate boundaries and global-scale mantle circulation. We have developed analytical models of slab-induced mantle flow within a global upper mantle ([Holt and Royden, 2021, G-Cubed](/documents/papers/holt-royden_2020_g3.pdf)) and used these to argue that Earth's slab dip distribution is strongly affected by global flow patterns. We have also constructed global numerical subduction models to validate the results of the (more idealized) analytical models (Holt and Royden, in prep.) and, following a recent [NSF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2147997), are applying this numerical approach to investigate the imprint of global flow on Western Pacific slabs.
+**Global slab and mantle dynamics:** We are developing methods to investigate the strength and nature of mechanical interactions between regional plate boundaries and global-scale mantle circulation. We have developed analytical models of slab-induced mantle flow within a global upper mantle ([Holt and Royden, 2021, G-Cubed](/documents/papers/holt-royden_2020_g3.pdf)) and used these to argue that Earth's slab dip distribution is strongly affected by global flow patterns. We have also constructed global numerical subduction models to validate the results of these more idealized analytical models ([Holt, 2022, GRL](/documents/papers/holt_GRL2022.pdf)) and, following a recent [NSF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2147997), are applying this numerical approach to investigate the imprint of global flow on Western Pacific slabs.
 </p>
 <hr>
 <p style="padding-top:5px">
@@ -60,9 +60,6 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/kinematics1.png" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/regional_subd2.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

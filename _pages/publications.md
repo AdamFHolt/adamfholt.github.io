@@ -9,6 +9,9 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
+[17] Clennett, E. J., Holt, A. F, Tetley, M. G., Becker, T. W., Faccenna, C., 2023. Assessing plate reconstruction models using plate driving force consistency tests. Sci. Rep., doi:10.1038/srep2300487. ([PDF](/documents/papers/holt_grl2022.pdf))
+</p>
+<p style="padding-top:12px">
 [16] Holt, A. F., 2022. The topographic signature of mantle pressure build-up beneath subducting plates: Insights from spherical subduction models. Geophys. Res. Lett., 49, doi:10.1029/2022GL100330. ([PDF](/documents/papers/holt_grl2022.pdf))
 </p>
 <p style="padding-top:12px">

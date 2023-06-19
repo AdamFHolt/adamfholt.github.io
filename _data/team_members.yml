@@ -15,10 +15,17 @@
 
 - name: Valeria Turino
   photo: valeria.png
-  info: 3nd year PhD student
+  info: 3rd year PhD student
   email: valeria.turino@rsmas.miami.edu
   number_addit: 1
   addit1: "Projects: Subduction zone thermal structure, continental collision"
+
+- name: Tao Zhao
+  photo: tao.png
+  info: 1st year PhD student
+  email: txz386@earth.miami.edu
+  number_addit: 1
+  addit1: "Project: Western Pacific mantle and subduction dynamics"
 
 - name: Reid Jansen
   photo: reid.png

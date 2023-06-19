@@ -18,7 +18,7 @@
   info: 3rd year PhD student
   email: valeria.turino@rsmas.miami.edu
   number_addit: 1
-  addit1: "Projects: Subduction zone thermal structure, continental collision"
+  addit1: "Projects: Subduction zone thermal structure, UHP exhumation"
 
 - name: Tao Zhao
   photo: tao.png
@@ -27,9 +27,16 @@
   number_addit: 1
   addit1: "Project: Western Pacific mantle and subduction dynamics"
 
+- name: Zonglin Guo
+  photo: misc.png
+  info: 1st year PhD student
+  email: zxg348@earth.miami.edu
+  number_addit: 1
+  addit1: "Project: Slab bending, faulting, and hydration"
+
 - name: Reid Jansen
   photo: reid.png
   info: Undergraduate researcher
   email: rpj30@miami.edu
   number_addit: 1
-  addit1: "Project: Feasibility of subduction on Europa."
+  addit1: "Project: Style of surface recycling on Europa"

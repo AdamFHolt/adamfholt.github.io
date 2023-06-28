@@ -16,7 +16,6 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 
 <hr>
-<br>
 
 <p style="padding-top:5px">
 ![]({{ site.url }}{{ site.baseurl }}/images/carousel/compialtion2.png){: style="width: 250px; float: right; margin: 0px  10px"}
@@ -25,8 +24,7 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 
 
 <hr>
-<br>
-<br>
+
 
 <p style="padding-top:5px">
 **2) Regional subduction dynamics:** We use analytical and numerical modeling approaches to constrain subduction zone dynamics, with a focus on the links between sub-plate processes (e.g., mantle flow and pressure) and near-surface  deformation (e.g, topography, plate velocities, tectonics). A relatively recent focus has been on the physical processes that dictate tectonic observables within geometrically complicated "double subduction" zones, both in general ([Holt et al., 2017, GJI](/documents/papers/holt_et_al_gji2017.pdf)) and as applied to the Caribbean, Western Pacific, and India-Eurasian subduction zones (e.g., [Faccenna et al., 2017, Tectonophys.](/documents/papers/faccenna_et_al_tectono2017.pdf); [Holt et al., 2018, GJI](/documents/papers/holt_et_al_epsl2018.pdf))
@@ -34,7 +32,6 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 
 
 <hr>
-<br>
 
 
 <p style="padding-top:5px">
@@ -43,8 +40,7 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 
 
 <hr>
-<br>
-<br>
+
 
 <p style="padding-top:5px">
 ![]({{ site.url }}{{ site.baseurl }}/images/carousel/compialtion.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -52,7 +48,6 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 </p>
 
 <hr>
-<br>
 <br>
 
 

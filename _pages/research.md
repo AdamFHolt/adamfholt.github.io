@@ -43,7 +43,12 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 
 
 <p style="padding-top:5px">
+
 ![]({{ site.url }}{{ site.baseurl }}/images/carousel/compialtion.png){: style="width: 250px; float: left; margin: 0px  10px"}
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/carousel/compialtion.png" width="100%">
+</figure>
+
 **3) Global subduction and mantle dynamics:** We are developing methods to investigate the strength and nature of mechanical interactions between regional plate boundaries and global-scale mantle circulation. We have developed analytical models of slab-induced mantle flow within a global upper mantle ([Holt and Royden, 2021, G-Cubed](/documents/papers/holt-royden_2020_g3.pdf)) and used these to argue that Earth's slab dip distribution is largely controlled by mantle flow patterns. We have also constructed global numerical subduction models to validate the results of these more idealized analytical models ([Holt, 2022, GRL](/documents/papers/holt_grl2022.pdf)) and, following a recent [NSF award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2147997), are applying this numerical approach to investigate the imprint of global-scale mantle flow on Western Pacific subduction zones.
 </p>
 

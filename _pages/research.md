@@ -35,7 +35,6 @@ We use geodynamic modeling, in conjunction with geological and geophysical obser
 
 <hr>
 <br>
-<br>
 
 
 <p style="padding-top:5px">

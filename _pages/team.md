@@ -55,8 +55,8 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-<i> Sam Goldberg, NSF Postdoctoral Fellow, Now UMiami faculty ([Sam's webpage](https://www.samgoldberg.org/)) </i>
-<br><i> Yidan Wang, Now in Prof. G. Lin's seismology group, Summer 2022 ([Yidan's poster from the 2022 Ada Lovelace Workshop](/documents/posters/yidan_ALW_poster.pdf)) </i>
+<i> Sam Goldberg, NSF Postdoctoral Fellow, Now UMiami faculty, Fall 2022 ([Sam's webpage](https://www.samgoldberg.org/)) </i>
+<br><i> Yidan Wang, Now in Guoqing Lin's seismology group, Summer 2022 ([Yidan's poster from the 2022 Ada Lovelace Workshop](/documents/posters/yidan_ALW_poster.pdf)) </i>
 <br><i> Jazmin Garza, Bachelor's Thesis, Spring 2022 ([Jazmin's poster from her bachelor's thesis](/documents/posters/jazmin_garza_poster.pdf)) </i>
 <br><i> Chantal Newallo, Bachelor's Thesis, Spring 2020 ([Chantal's poster from her bachelor's thesis](/documents/posters/chantal_newallo_poster.pdf)) </i>
 

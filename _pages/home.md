@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 <br>
-<!-- ​​​​​​​**Welcome to the webpage of the University of Miami's Geodynamics Group!**-->
- <h4 style="font-weight: bold">​​​​​​​**Welcome to the webpage of the University of Miami's Geodynamics Group!**</h4> 
+ ​​​​​​​**Welcome to the webpage of the University of Miami's Geodynamics Group!**
 <br>
 <br>
  We are located within the Department of Marine Geoscience within the [Rosenstiel School of Marine, Atmospheric, and Earth Science](https://www.rsmas.miami.edu) and led by [Adam F. Holt](https://people.miami.edu/profile/axh1305@miami.edu).

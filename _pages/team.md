@@ -22,6 +22,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="27%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i> {{ member.more_info }} </i>
   <ul style="overflow: hidden">
 
   {% if member.number_addit == 1 %}

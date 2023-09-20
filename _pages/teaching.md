@@ -17,6 +17,8 @@ permalink: /teaching/
 <p style="padding-top:5px">
 **Natural Disasters: Holywood vs. Reality (GSC 107):** This is an introductory science course covering the geological causes and effects of natural hazards on Earth, and the responses of society to them. Lectures introduce the underlying science, and, in a term paper and class exercises, students use these scientific principles to assess disaster films and media articles for their scientific veracity. Here is an example [syllabus](/documents/misc/Syllabus_GSC107.pdf). If you are an educator and would like to access the complete class materials, feel free to send me an email request.
 </p>
+<p style="padding-top:5px">
+**Subduction Zone Geopyhsics (MGS 710):** Details forthcoming...
 <hr>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/MainCampus.png" width="100%">

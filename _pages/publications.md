@@ -9,6 +9,9 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
+[18] Turino, V., and Holt, A. F. Spatio-temporal variability in slab temperature within dynamic 3-D subduction models. In press at Geophys. J. Int. ([PDF](/documents/papers/turino-holt_gji.pdf))
+</p>
+<p style="padding-top:12px">
 [17] Clennett, E. J., Holt, A. F, Tetley, M. G., Becker, T. W., Faccenna, C., 2023. Assessing plate reconstruction models using plate driving force consistency tests. Sci. Rep., doi:10.1038/srep2300487. ([PDF](/documents/papers/clennett_et_al_scirep2023.pdf))
 </p>
 <p style="padding-top:12px">

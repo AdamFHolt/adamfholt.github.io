@@ -5,7 +5,7 @@ excerpt: "Geodynamics Group at the University of Miami."
 sitemap: false
 permalink: /
 ---
-<h3 style="font-weight: bold">Welcome to the webpage of the University of Miami's Geodynamics Group!</h3> 
+<h4 style="font-weight: bold">Welcome to the webpage of the University of Miami's Geodynamics Group!</h4> 
 
 <hr>
 

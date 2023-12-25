@@ -14,7 +14,7 @@ permalink: /
 We strive to constrain the factors that govern the geologic evolution of plates, plate boundaries and the underlying mantle, and the rates and scales over which this deformation occurs. To achieve this, we integrate a variety of geodynamic modeling techniques with geological and geophysical observations. See the [Research](https://adamfholt.github.io/research/) page for more details about some current or recent projects.
 <br>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="105%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="85%">
 </figure>
 <br>
 

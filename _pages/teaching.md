@@ -19,7 +19,7 @@ permalink: /teaching/
 </p>
 <hr>
 <p style="padding-top:5px">
-**Subduction Zone Geopyhsics (MGS 710):** Details forthcoming...
+**Subduction Zone Geodynamics (MGS 710):** Details forthcoming...
 </p>
 <hr>
 <figure>

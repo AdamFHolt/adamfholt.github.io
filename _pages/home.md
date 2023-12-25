@@ -13,7 +13,7 @@ permalink: /
 <br>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="90%">
 </figure>
 
 <!-- <br>

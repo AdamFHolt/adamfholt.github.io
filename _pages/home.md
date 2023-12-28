@@ -5,12 +5,14 @@ excerpt: "Geodynamics Group at the University of Miami."
 sitemap: false
 permalink: /
 ---
-<h4 style="font-weight: bold">Welcome to the webpage of the University of Miami's Geodynamics Group!</h4> 
+<h3 style="font-weight: bold">Welcome to the University of Miami's Geodynamics Group!</h3> 
 
 <hr>
 
- We in the Department of Marine Geoscience, at the [Rosenstiel School of Marine, Atmospheric, and Earth Science](https://www.rsmas.miami.edu), and led by [Adam F. Holt](https://people.miami.edu/profile/axh1305@miami.edu). We strive to constrain the factors that govern the geologic evolution of plates, plate boundaries and the underlying mantle, and the rates and scales over which this deformation occurs. To achieve this, we integrate a variety of geodynamic modeling techniques with geological and geophysical observations. See the [Research](https://adamfholt.github.io/research/) page for more details about some current or recent projects.
-<br>
+ We are located within the Department of Marine Geoscience, at the [Rosenstiel School of Marine, Atmospheric, and Earth Science](https://www.rsmas.miami.edu), and led by [Prof. Adam F. Holt](https://people.miami.edu/profile/axh1305@miami.edu). We strive to constrain the factors that govern the geologic evolution of plates, plate boundaries and the underlying mantle, and the rates and scales over which this deformation occurs. To achieve this, we integrate a variety of geodynamic modeling techniques with geological and geophysical observations. See the [Research](https://adamfholt.github.io/research/) page for more details about some current or recent projects.
+<!-- <br> -->
+<hr>
+
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/RSMAS_w_caption.png" width="90%">

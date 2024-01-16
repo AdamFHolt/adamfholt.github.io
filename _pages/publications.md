@@ -9,10 +9,10 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
-[18] Turino, V., and Holt, A. F., 2024. Spatio-temporal variability in slab temperature within dynamic 3-D subduction models. Geophys. J. Int., doi:10.1093/gji/ggad489. ([PDF](/documents/papers/turino-holt_gji.pdf))
+[18] Turino, V., and Holt, A. F., 2024. Spatio-temporal variability in slab temperature within dynamic 3-D subduction models. Geophys. J. Int., 236, doi:10.1093/gji/ggad489. ([PDF](/documents/papers/turino-holt_gji-2024.pdf))
 </p>
 <p style="padding-top:12px">
-[17] Clennett, E. J., Holt, A. F, Tetley, M. G., Becker, T. W., Faccenna, C., 2023. Assessing plate reconstruction models using plate driving force consistency tests. Sci. Rep., doi:10.1038/srep2300487. ([PDF](/documents/papers/clennett_et_al_scirep2023.pdf))
+[17] Clennett, E. J., Holt, A. F, Tetley, M. G., Becker, T. W., Faccenna, C., 2023. Assessing plate reconstruction models using plate driving force consistency tests. Sci. Rep., 13, doi:10.1038/srep2300487. ([PDF](/documents/papers/clennett_et_al_scirep2023.pdf))
 </p>
 <p style="padding-top:12px">
 [16] Holt, A. F., 2022. The topographic signature of mantle pressure build-up beneath subducting plates: Insights from spherical subduction models. Geophys. Res. Lett., 49, doi:10.1029/2022GL100330. ([PDF](/documents/papers/holt_grl2022.pdf))

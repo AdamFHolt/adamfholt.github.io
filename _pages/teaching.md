@@ -20,7 +20,7 @@ permalink: /teaching/
 </p>
 <hr>
 <p style="padding-top:5px">
-**Subduction Zone Geodynamics (MGS 710):** Details forthcoming...
+**Subduction Zone Geodynamics (MGS 710):** This course is an overview of the dynamics of subduction zones based around the analysis of both classic and recent literature. A sampling of the topics we cover include slab deformation, mantle flow and rheology, and subduction induced topography. We mainly focus on subduction zone modeling but also pay attention to the observational constraints. The goals of the class are for students to develop a well-rounded and contemporary background on subduction zone geodynamics. An auxiliary goal is the identification of collaborative and/or individual future research avenues. Here is an example [syllabus](/documents/misc/Syllabus_MGS710.pdf) and an example [schedule](/documents/misc/Schedule_MGS710.pdf).
 </p>
 <hr>
 <figure>

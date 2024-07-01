@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
-Epstein, G. S., Condit, C. B., Stoner, R. K., Holt, A. F., and Guevara, V., 2024. Extensive Forearc Mantle Wedge Hydration Catalyzed by Subduction Zone Thermal Evolution. In press at AGU Advances.
+Epstein, G. S., Condit, C. B., Stoner, R. K., Holt, A. F., and Guevara, V., 2024. Extensive Forearc Mantle Wedge Hydration Catalyzed by Subduction Zone Thermal Evolution. AGU Advances, 5, doi:10.1029/2023AV001121. ([PDF](/documents/papers/esptein_etal_advances_2024.pdf))
 </p>
 <p style="padding-top:12px">
 Goldberg, S. L., and Holt, A. F., 2024. Characterizing the complexity of subduction zone flow with an ensemble of multiscale global convection models. Geochem., Geophys., Geosys., 25, doi:10.1029/2023GC011134. ([PDF](/documents/papers/goldberg-holt_2024_g3.pdf))

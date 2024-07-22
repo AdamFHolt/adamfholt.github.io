@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
-Conrad, E. M., Faccenna, C., Holt, A. F., and Becker, T. W., 2024. Tectonic reorganization of the Caribbean plate system in the Paleogene driven by Farallon slab anchoring. In press at Geochem., Geophys., Geosys.
+Conrad, E. M., Faccenna, C., Holt, A. F., and Becker, T. W., 2024. Tectonic reorganization of the Caribbean plate system in the Paleogene driven by Farallon slab anchoring. Geochem., Geophys., Geosys., doi:10.1029/2024GC011499. ([PDF](/documents/papers/conrad_et-al_g3-2024.pdf))
 </p>
 <p style="padding-top:12px">
 Epstein, G. S., Condit, C. B., Stoner, R. K., Holt, A. F., and Guevara, V., 2024. Extensive Forearc Mantle Wedge Hydration Catalyzed by Subduction Zone Thermal Evolution. AGU Advances, 5, doi:10.1029/2023AV001121. ([PDF](/documents/papers/esptein_etal_advances_2024.pdf))

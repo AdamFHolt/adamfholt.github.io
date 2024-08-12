@@ -12,7 +12,7 @@ permalink: /publications/
 Conrad, E. M., Faccenna, C., Holt, A. F., and Becker, T. W., 2024. Tectonic reorganization of the Caribbean plate system in the Paleogene driven by Farallon slab anchoring. Geochem., Geophys., Geosys., doi:10.1029/2024GC011499. ([PDF](/documents/papers/conrad_et-al_g3-2024.pdf))
 </p>
 <p style="padding-top:12px">
-Epstein, G. S., Condit, C. B., Stoner, R. K., Holt, A. F., and Guevara, V., 2024. Extensive Forearc Mantle Wedge Hydration Catalyzed by Subduction Zone Thermal Evolution. AGU Advances, 5, doi:10.1029/2023AV001121. ([PDF](/documents/papers/esptein_etal_advances_2024.pdf))
+Epstein, G. S., Condit, C. B., Stoner, R. K., Holt, A. F., and Guevara, V., 2024. Evolving Subduction Zone Thermal Structure Drives Extensive Forearc Mantle Wedge Hydration. AGU Advances, 5, doi:10.1029/2023AV001121. ([PDF](/documents/papers/esptein_etal_advances_2024.pdf))
 </p>
 <p style="padding-top:12px">
 Goldberg, S. L., and Holt, A. F., 2024. Characterizing the complexity of subduction zone flow with an ensemble of multiscale global convection models. Geochem., Geophys., Geosys., 25, doi:10.1029/2023GC011134. ([PDF](/documents/papers/goldberg-holt_2024_g3.pdf))

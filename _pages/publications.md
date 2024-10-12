@@ -71,6 +71,11 @@ Holt, A. F., Becker, T. W., Buffett, B. A., 2015. Trench migration and overridin
 <p style="padding-top:12px">
 Sun, D., Miller, M. S., Holt, A. F., Becker, T. W., 2014. Hot upwelling conduit beneath the  Atlas Mountains, Morocco. Geophys. Res. Lett., 41, 8037-8044, doi:10.1002/2014GL061884. ([PDF](/documents/papers/sun_et_al_grl2015.pdf))
 </p>
+<h3 style="font-weight: bold">Other</h3>
+<hr>
+<p style="padding-top:5px">
+Holt, A. F., 2016. Trench migration, slab bending, and mantle flow at subduction zones, Ph.D. thesis, University of Southern California, Los Angeles CA. ([PDF](/documents/papers/holt_PhDThesis_2016.pdf))
+</p>
 
 
 <br>

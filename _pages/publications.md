@@ -9,7 +9,7 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
-Stoner, R. K., Holt, A. F., Epstein, G. S., Guevara, V. E., and Condit, C. B. Emergent Feedbacks Between Progressive Serpentinization, Interface Weakening, and Subduction Rates. In press at Geochem., Geophys., Geosys.. ([PDF](/documents/papers/stoner_et_al_inPress.pdf))
+Stoner, R. K., Holt, A. F., Epstein, G. S., Guevara, V. E., and Condit, C. B. Emergent Feedbacks Between Progressive Serpentinization, Interface Weakening, and Subduction Rates. In press at Geochem., Geophys., Geosys. ([PDF](/documents/papers/stoner_et_al_inPress.pdf))
 </p>
 <p style="padding-top:12px">
 Gianni, G. M., Guo, Z., Holt, A. F., and Faccenna, C., 2025. Non-collisional orogeny in northeast Japan driven by nearby same-dip double subduction. Nature Geosc., doi: 10.1038/s41561-025-01704-5. ([PDF](/documents/papers/gianni_et-al_ngeo2025.pdf))

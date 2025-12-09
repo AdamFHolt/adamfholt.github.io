@@ -9,6 +9,9 @@ permalink: /publications/
 <h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
 <hr>
 <p style="padding-top:5px">
+Neuharth, D., Behr, W. M., and Holt, A. F. The role of along-strike variations in interface rheology on subduction dynamics: constraints from 3D numerical models. In press at Geophys. J. Int. ([PDF](/documents/papers/neuharth_et-al_in-press-GJI.pdf))
+</p>
+<p style="padding-top:12px">
 Stoner, R. K., Holt, A. F., Epstein, G. S., Guevara, V. E., and Condit, C. B., 2025. Emergent Feedbacks Between Progressive Serpentinization, Interface Weakening, and Subduction Rates. Geochem., Geophys., Geosys., 26, doi:10.1029/2025GC012488. ([PDF](/documents/papers/stoner_et-al_g3-2025.pdf))
 </p>
 <p style="padding-top:12px">

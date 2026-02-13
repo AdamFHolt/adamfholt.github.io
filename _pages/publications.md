@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-<h3 style="font-weight: bold">Publications	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Google Scholar](https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en)</h3>
+<h3 class="section-heading"><span>Publications</span><a class="scholar-link" href="https://scholar.google.com/citations?user=hIU7K7IAAAAJ&hl=en">Google Scholar</a></h3>
 <hr>
 <p style="padding-top:5px">
 Neuharth, D., Behr, W. M., and Holt, A. F., 2025. The role of along-strike variations in interface rheology on subduction dynamics: constraints from 3D numerical models. Geophys. J. Int., 244, doi:10.1093/gji/ggaf515. ([PDF](/documents/papers/neuharth_et-al_gji2026.pdf))
@@ -90,5 +90,4 @@ Holt, A. F., 2016. Trench migration, slab bending, and mantle flow at subduction
 <br>
 <br>
 <br>
-
 

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /onepage/
 ---
 
-<div class="onepage col-sm-12">
+<div class="onepage col-sm-12" markdown="1">
   <section class="onepage-hero" id="top">
     <p class="onepage-kicker">University of Miami</p>
     <h1>Geodynamics Group</h1>

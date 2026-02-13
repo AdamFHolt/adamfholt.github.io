@@ -305,6 +305,11 @@ hr {
   padding-top: 9px;
 }
 
+.onepage-section:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
 .onepage-nav {
   display: flex;
   flex-wrap: wrap;

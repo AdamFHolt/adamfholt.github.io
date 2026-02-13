@@ -22,9 +22,9 @@ body {
   padding-top: 70px;
   background-color: var(--paper);
   color: var(--ink);
-  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
-  font-size: 18px;
-  line-height: 1.68;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
+  font-size: 17px;
+  line-height: 1.56;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   font-variant-numeric: oldstyle-nums;
@@ -65,10 +65,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
   color: var(--ink);
-  line-height: 1.3;
-  letter-spacing: 0.01em;
+  line-height: 1.28;
 }
 
 h1 {
@@ -77,9 +76,9 @@ h1 {
 }
 
 h2 {
-  font-size: 1.7em;
-  margin-top: 1.2em;
-  margin-bottom: 0.45em;
+  font-size: 1.45em;
+  margin-top: 1.05em;
+  margin-bottom: 0.35em;
 }
 
 h3 {
@@ -131,13 +130,13 @@ hr {
 
 .navbar-brand,
 .navbar-nav > li > a {
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
   color: var(--ink) !important;
 }
 
 .navbar-brand {
   font-weight: 700;
-  letter-spacing: 0.01em;
+  letter-spacing: 0;
 }
 
 .navbar-nav > li > a {
@@ -212,7 +211,7 @@ hr {
 }
 
 #publications .scholar-link {
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
   font-size: 0.72em;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -249,14 +248,14 @@ hr {
 
 /* One-page variant */
 .onepage {
-  max-width: 900px;
-  margin: 0 auto 30px;
-  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  max-width: 860px;
+  margin: 0 auto 24px;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
 }
 
 .onepage-hero {
-  padding-top: 10px;
-  margin-bottom: 18px;
+  padding-top: 4px;
+  margin-bottom: 8px;
 }
 
 .onepage-kicker {
@@ -264,7 +263,7 @@ hr {
   font-size: 0.78em;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
   color: var(--muted-ink);
 }
 
@@ -272,7 +271,7 @@ hr {
 .onepage h2,
 .onepage h3,
 .onepage h4 {
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
 }
 
 .onepage h1 {
@@ -281,11 +280,11 @@ hr {
 }
 
 .onepage h2 {
-  margin-top: 1.35em;
-  margin-bottom: 0.5em;
-  font-size: 1.35em;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
+  margin-top: 1.1em;
+  margin-bottom: 0.35em;
+  font-size: 1.22em;
+  text-transform: none;
+  letter-spacing: 0;
 }
 
 .onepage h3 {
@@ -296,27 +295,28 @@ hr {
 
 .onepage p,
 .onepage li {
-  line-height: 1.58;
+  line-height: 1.5;
 }
 
 .onepage-section {
   border-top: 1px solid var(--rule);
-  padding-top: 12px;
+  padding-top: 9px;
 }
 
 .onepage-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 0.9em;
+  gap: 10px;
+  margin-top: 0.45em;
+  margin-bottom: 0.2em;
 }
 
 .onepage-nav a {
   border-bottom: 0;
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.8em;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
+  font-size: 0.9em;
+  text-transform: none;
+  letter-spacing: 0;
   color: var(--muted-ink);
 }
 
@@ -325,38 +325,12 @@ hr {
   color: var(--link-hover);
 }
 
-.onepage-banner img,
-.onepage-section figure img {
-  width: 100%;
-  border-radius: 2px;
-  margin-top: 12px;
+.onepage-team-list {
+  margin-bottom: 0.7em;
 }
 
-.onepage-team-grid {
-  margin-top: 6px;
-}
-
-.onepage-team-card {
-  display: flex;
-  gap: 14px;
-  margin-bottom: 18px;
-}
-
-.onepage-team-card img {
-  width: 90px;
-  height: 90px;
-  object-fit: cover;
-  border-radius: 3px;
-  margin: 0;
-}
-
-.onepage-team-card h4 {
-  margin: 0 0 4px;
-}
-
-.onepage-team-card p {
-  margin-bottom: 0.5em;
-  font-size: 0.96em;
+.onepage-team-item {
+  margin-bottom: 0.4em;
 }
 
 .onepage-publications ol {
@@ -368,12 +342,12 @@ hr {
 }
 
 .onepage-scholar {
-  margin-top: -0.2em;
-  margin-bottom: 0.95em;
-  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 0.78em;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  margin-top: 0.2em;
+  margin-bottom: 0.65em;
+  font-family: "STIX Two Text", "Times New Roman", Times, serif;
+  font-size: 0.92em;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 .onepage-scholar a {
@@ -382,8 +356,8 @@ hr {
 
 @media (max-width: 767px) {
   body {
-    font-size: 17px;
-    line-height: 1.66;
+    font-size: 16px;
+    line-height: 1.5;
     padding-top: 62px;
   }
 
@@ -395,15 +369,7 @@ hr {
     max-width: 100%;
   }
 
-  .onepage h1 {
-    font-size: 1.72em;
-  }
-
   .onepage h2 {
-    font-size: 1.2em;
-  }
-
-  .onepage-team-card {
-    margin-bottom: 14px;
+    font-size: 1.14em;
   }
 }

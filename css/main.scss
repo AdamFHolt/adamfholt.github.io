@@ -24,7 +24,7 @@ body {
   color: var(--ink);
   font-family: "STIX Two Text", "Times New Roman", Times, serif;
   font-size: 17px;
-  line-height: 1.56;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   font-variant-numeric: oldstyle-nums;
@@ -297,7 +297,7 @@ hr {
 
 .onepage p,
 .onepage li {
-  line-height: 1.5;
+  line-height: 1.46;
 }
 
 .onepage-section {
@@ -328,11 +328,16 @@ hr {
 }
 
 .onepage-team-list {
-  margin-bottom: 0.7em;
+  margin-bottom: 0.5em;
 }
 
 .onepage-team-item {
-  margin-bottom: 0.4em;
+  margin-bottom: 0.25em;
+}
+
+.onepage-subhead {
+  margin: 0 0 0.28em;
+  font-weight: 400;
 }
 
 .onepage-publications ol {
@@ -340,7 +345,7 @@ hr {
 }
 
 .onepage-publications li {
-  margin-bottom: 0.62em;
+  margin-bottom: 0.44em;
 }
 
 .onepage-scholar {

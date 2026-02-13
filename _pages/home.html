@@ -69,17 +69,18 @@ permalink: /
 
   <section id="team" class="onepage-section">
     <h2>Team</h2>
+    <p class="onepage-subhead">Current:</p>
     <ul class="onepage-team-list">
       {% for member in site.data.team_members %}
       <li class="onepage-team-item">
-        <strong>{{ member.name }}</strong>, {{ member.info }}. email: <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+        {{ member.name }}, {{ member.info }}. email: <a href="mailto:{{ member.email }}">{{ member.email }}</a>
         {% if member.number_addit == 1 %} {{ member.addit1 }}{% endif %}
         {% if member.number_addit == 2 %} {{ member.addit1 }} {{ member.addit2 }}{% endif %}
       </li>
       {% endfor %}
     </ul>
 
-    <h3>Former Members</h3>
+    <p class="onepage-subhead">Former:</p>
     <ul>
       <li>Sam Goldberg, NSF Postdoctoral Fellow, now UMiami faculty (<a href="https://www.samgoldberg.org/">website</a>)</li>
       <li>Yidan Wang, now in Guoqing Lin's seismology group (<a href="/documents/posters/yidan_ALW_poster.pdf">poster</a>)</li>

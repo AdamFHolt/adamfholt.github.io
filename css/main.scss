@@ -344,6 +344,49 @@ hr {
   margin-bottom: 0.25em;
 }
 
+.onepage-team-cards {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 0.55em;
+}
+
+.onepage-team-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 6px 8px;
+  margin-bottom: 6px;
+}
+
+.onepage-team-name {
+  font-weight: 700;
+}
+
+.onepage-team-role {
+  color: var(--muted-ink);
+  flex: 1 1 auto;
+}
+
+.onepage-team-mail {
+  border-bottom: 0;
+  line-height: 1;
+  font-size: 0.92em;
+  color: var(--muted-ink);
+}
+
+.onepage-team-mail:hover,
+.onepage-team-mail:focus {
+  color: var(--link-hover);
+}
+
+.onepage-updated {
+  margin: -0.05em 0 0.55em;
+  font-size: 0.88em;
+  color: var(--muted-ink);
+}
+
 .onepage-subhead {
   margin: 0 0 0.28em;
   font-weight: 400;

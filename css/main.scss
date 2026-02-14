@@ -262,15 +262,16 @@ hr {
   flex: 1 1 0;
 }
 
-.onepage-hero-photo {
-  flex: 0 0 260px;
+.onepage-hero-mark {
+  flex: 0 0 auto;
+  margin-top: 2px;
 }
 
-.onepage-hero-photo img {
+.onepage-hero-mark img {
   display: block;
-  width: 100%;
+  width: 78px;
   height: auto;
-  border-radius: 3px;
+  opacity: 0.9;
 }
 
 .onepage-kicker {
@@ -399,12 +400,21 @@ hr {
   .onepage h2 {
     font-size: 1.14em;
   }
+
+  .onepage-hero {
+    display: block;
+  }
+
+  .onepage-hero-mark {
+    margin-top: 8px;
+  }
 }
 
 @media (min-width: 768px) {
   .onepage-hero {
     display: flex;
-    gap: 20px;
+    gap: 12px;
     align-items: flex-start;
+    justify-content: space-between;
   }
 }

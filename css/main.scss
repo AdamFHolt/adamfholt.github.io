@@ -262,18 +262,6 @@ hr {
   flex: 1 1 0;
 }
 
-.onepage-hero-mark {
-  flex: 0 0 auto;
-  margin-top: 2px;
-}
-
-.onepage-hero-mark img {
-  display: block;
-  width: 78px;
-  height: auto;
-  opacity: 0.9;
-}
-
 .onepage-kicker {
   margin-bottom: 0.45em;
   font-size: 0.78em;
@@ -399,22 +387,5 @@ hr {
 
   .onepage h2 {
     font-size: 1.14em;
-  }
-
-  .onepage-hero {
-    display: block;
-  }
-
-  .onepage-hero-mark {
-    margin-top: 8px;
-  }
-}
-
-@media (min-width: 768px) {
-  .onepage-hero {
-    display: flex;
-    gap: 12px;
-    align-items: flex-start;
-    justify-content: space-between;
   }
 }

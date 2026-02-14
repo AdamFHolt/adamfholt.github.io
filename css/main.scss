@@ -258,6 +258,21 @@ hr {
   margin-bottom: 8px;
 }
 
+.onepage-hero-content {
+  flex: 1 1 0;
+}
+
+.onepage-hero-photo {
+  flex: 0 0 260px;
+}
+
+.onepage-hero-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
 .onepage-kicker {
   margin-bottom: 0.45em;
   font-size: 0.78em;
@@ -383,5 +398,13 @@ hr {
 
   .onepage h2 {
     font-size: 1.14em;
+  }
+}
+
+@media (min-width: 768px) {
+  .onepage-hero {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
   }
 }

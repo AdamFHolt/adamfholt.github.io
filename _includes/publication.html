@@ -1,0 +1,4 @@
+{%- assign pub = include.pub -%}
+{%- assign title = pub.title -%}
+{%- if include.use_short and pub.short -%}{%- assign title = pub.short -%}{%- endif -%}
+{{ pub.authors }}, {{ pub.year }}. {{ title }}. <em>{{ pub.journal }}</em>{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}, doi:{{ pub.doi }}.{% if pub.pdf %} (<a href="/documents/papers/{{ pub.pdf }}">PDF</a>){% endif %}

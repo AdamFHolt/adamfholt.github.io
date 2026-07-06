@@ -106,13 +106,10 @@ permalink: /
   <section id="publications" class="onepage-section onepage-publications">
     <h2>Recent Papers</h2>
     <p class="onepage-updated">Updated {{ site.time | date: "%B %Y" }}.</p>
-    <ol reversed start="25">
-      <li>Turino, V., Holt, A. F., Neuharth, D. J., Stoner, R. K., and Behr, W. M., 2026. Interface deformation, exhumation, and underplating: The role of plate velocity changes throughout the evolution of a subduction zone. <em>Geochem., Geophys., Geosys.</em>, 27, doi:10.1029/2026GC012942. (<a href="/documents/papers/turino_et-al_g3-2026.pdf">PDF</a>)</li>
-      <li>Neuharth, D., Behr, W. M., and Holt, A. F., 2026. The role of along-strike variations in interface rheology on subduction dynamics. <em>Geophys. J. Int.</em>, 244, doi:10.1093/gji/ggaf515. (<a href="/documents/papers/neuharth_et-al_gji2026.pdf">PDF</a>)</li>
-      <li>Stoner, R. K., Holt, A. F., Epstein, G. S., Guevara, V. E., and Condit, C. B., 2025. Emergent feedbacks between progressive serpentinization, interface weakening, and subduction rates. <em>Geochem., Geophys., Geosys.</em>, 26, doi:10.1029/2025GC012488. (<a href="/documents/papers/stoner_et-al_g3-2025.pdf">PDF</a>)</li>
-      <li>Gianni, G. M., Guo, Z., Holt, A. F., and Faccenna, C., 2025. Non-collisional orogeny in northeast Japan driven by nearby same-dip double subduction. <em>Nature Geosc.</em>, doi:10.1038/s41561-025-01704-5. (<a href="/documents/papers/gianni_et-al_ngeo2025.pdf">PDF</a>)</li>
-      <li>Conrad, E. M., Faccenna, C., Holt, A. F., and Becker, T. W., 2024. Tectonic reorganization of the Caribbean plate system in the Paleogene. <em>Geochem., Geophys., Geosys.</em>, doi:10.1029/2024GC011499. (<a href="/documents/papers/conrad_et-al_g3-2024.pdf">PDF</a>)</li>
-      <li>Epstein, G. S., Condit, C. B., Stoner, R. K., Holt, A. F., and Guevara, V., 2024. Evolving subduction zone thermal structure drives extensive forearc mantle wedge hydration. <em>AGU Advances</em>, 5, doi:10.1029/2023AV001121. (<a href="/documents/papers/esptein_etal_advances_2024.pdf">PDF</a>)</li>
+    <ol reversed start="{{ site.data.publications | size }}">
+      {% for pub in site.data.publications limit:6 %}
+      <li>{% include publication.html pub=pub use_short=true %}</li>
+      {% endfor %}
     </ol>
     <p class="onepage-scholar">
       <a href="/publications-full/">Full publication list</a> |

@@ -11,8 +11,21 @@
 #   pages    – (optional) page range, e.g. "72-83"
 #   doi      – DOI without the "doi:" prefix
 #   pdf      – (optional) filename in /documents/papers/
+#   status   – (optional) e.g. "In press at"; used for accepted-but-not-
+#              yet-published papers. Omit `year`, `volume`, `pages`, and
+#              `doi` for these; they render as "Title. In press at Journal."
 #   short    – (optional) shorter title used only on the homepage;
 #              falls back to `title` when omitted
+
+- authors: "Schönig, J., Ferrero, S., Gresky, K., Sorger, D., Schmitt, A., Wunder, B., Baldwin, S., and Holt, A. F."
+  title: "Geothermal gradient change during subduction recorded by ultrahigh-pressure eclogite"
+  journal: "Nature Geosc."
+  status: "In press at"
+
+- authors: "Guo, Z., Holt, A. F., and Gürer, D. M."
+  title: "The Impact of Double Subduction on Plate Velocity and Euler Pole Shifts: Insights From Spherical Subduction Models"
+  journal: "J. Geophys. Res. Solid Earth"
+  status: "In press at"
 
 - authors: "Turino, V., Holt, A. F., Neuharth, D. J., Stoner, R. K., and Behr, W. M."
   year: 2026

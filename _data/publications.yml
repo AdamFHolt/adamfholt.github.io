@@ -23,9 +23,12 @@
   status: "In press at"
 
 - authors: "Guo, Z., Holt, A. F., and Gürer, D. M."
+  year: 2026
   title: "The Impact of Double Subduction on Plate Velocity and Euler Pole Shifts: Insights From Spherical Subduction Models"
   journal: "J. Geophys. Res. Solid Earth"
-  status: "In press at"
+  volume: 131
+  doi: "10.1029/2026JB034505"
+  pdf: "guo_et_al_jgr2026.pdf"
 
 - authors: "Turino, V., Holt, A. F., Neuharth, D. J., Stoner, R. K., and Behr, W. M."
   year: 2026

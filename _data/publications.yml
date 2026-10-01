@@ -18,9 +18,11 @@
 #              falls back to `title` when omitted
 
 - authors: "Schönig, J., Ferrero, S., Gresky, K., Sorger, D., Schmitt, A., Wunder, B., Baldwin, S., and Holt, A. F."
+  year: 2026
   title: "Geothermal gradient change during subduction recorded by ultrahigh-pressure eclogite"
   journal: "Nature Geosc."
-  status: "In press at"
+  doi: "10.1038/s41561-026-02110-1"
+  pdf: "schonig_et-al_2026_ngeo.pdf"
 
 - authors: "Guo, Z., Holt, A. F., and Gürer, D. M."
   year: 2026
